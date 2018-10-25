@@ -1,2 +1,2 @@
 # DatabaseEntriesGenerator
-Generator for test data in a database with contextually relevant information (e.g., name, address, email)
+Generate contextually relevant information (e.g., name, address, email) into your database.
