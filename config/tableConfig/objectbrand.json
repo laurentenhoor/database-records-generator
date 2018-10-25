@@ -1,0 +1,36 @@
+{
+  "name": "objectbrand",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "objectbrand"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "objectbrand"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "objectbrand"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "objectbrand"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "objectbrand"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "objectbrand"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "name": "slacontract",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "aanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "afdelingid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "archiefnummer",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "categorieid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "contractbudgethouderid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "contractstatusid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "costcalculationtype",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "getekenddoor",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "getekendop",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "kosten",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "kostencumulatief",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "kostenfactor",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "opzegdatum",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "periodeid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "periodekosten",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "periodeverlengingid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "rappeldatum",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "subcategorieid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "toelichting",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "verlengd",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vestigingofbudgethouder",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "volgnummer",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "slacontract"
+    }
+  ]
+}

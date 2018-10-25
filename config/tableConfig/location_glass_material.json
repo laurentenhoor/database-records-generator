@@ -1,0 +1,26 @@
+{
+  "name": "location_glass_material",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "location_glass_material"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "location_glass_material"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "location_glass_material"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location_glass_material"
+    }
+  ]
+}

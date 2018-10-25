@@ -1,0 +1,26 @@
+{
+  "name": "problemcause",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "problemcause"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "problemcause"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "problemcause"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "problemcause"
+    }
+  ]
+}

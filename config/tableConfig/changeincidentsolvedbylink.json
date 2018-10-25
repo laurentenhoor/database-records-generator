@@ -1,0 +1,26 @@
+{
+  "name": "changeincidentsolvedbylink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeincidentsolvedbylink"
+    },
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "changeincidentsolvedbylink"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "changeincidentsolvedbylink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeincidentsolvedbylink"
+    }
+  ]
+}

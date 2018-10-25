@@ -1,0 +1,26 @@
+{
+  "name": "changemeetingtype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changemeetingtype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changemeetingtype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changemeetingtype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changemeetingtype"
+    }
+  ]
+}

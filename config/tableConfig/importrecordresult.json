@@ -1,0 +1,36 @@
+{
+  "name": "importrecordresult",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "comment",
+      "shouldGenerate": false,
+      "tableName": "importrecordresult"
+    },
+    {
+      "name": "coupleid",
+      "shouldGenerate": false,
+      "tableName": "importrecordresult"
+    },
+    {
+      "name": "id",
+      "shouldGenerate": false,
+      "tableName": "importrecordresult"
+    },
+    {
+      "name": "mad",
+      "shouldGenerate": false,
+      "tableName": "importrecordresult"
+    },
+    {
+      "name": "representation",
+      "shouldGenerate": false,
+      "tableName": "importrecordresult"
+    },
+    {
+      "name": "success",
+      "shouldGenerate": false,
+      "tableName": "importrecordresult"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "om_series_object_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "om_series_object_link"
+    },
+    {
+      "name": "om_reeksid",
+      "shouldGenerate": false,
+      "tableName": "om_series_object_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_series_object_link"
+    }
+  ]
+}

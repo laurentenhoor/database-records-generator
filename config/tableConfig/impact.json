@@ -1,0 +1,31 @@
+{
+  "name": "impact",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "impact"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "impact"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "impact"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "impact"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "impact"
+    }
+  ]
+}

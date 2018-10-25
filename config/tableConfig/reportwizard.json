@@ -1,0 +1,71 @@
+{
+  "name": "reportwizard",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "kaart",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "omschr",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "roleid",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    },
+    {
+      "name": "voorwiecode",
+      "shouldGenerate": false,
+      "tableName": "reportwizard"
+    }
+  ]
+}

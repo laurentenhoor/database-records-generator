@@ -1,0 +1,21 @@
+{
+  "name": "probleem__kennissysteem",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "kennisid",
+      "shouldGenerate": false,
+      "tableName": "probleem__kennissysteem"
+    },
+    {
+      "name": "probleemid",
+      "shouldGenerate": false,
+      "tableName": "probleem__kennissysteem"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "probleem__kennissysteem"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "emailaction",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actief",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "actieftasbeveiligd",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "actieftaspubliek",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "actieftopdesk",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "adres",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "adres1",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "bericht1",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "bevestigen",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "carddocuments",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "html",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "kopiezelf",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "leesbevestiging",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "maildistribution",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "maildistribution_bcc",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "maildistribution_cc",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "maildistribution_replyto",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "onderwerp",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "onderwerp1",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "ontvangstbevestiging",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "prioriteit",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "questionnaireid",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "sleutel",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "structurename",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "uitvoerenbijselecties",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "vanadres1",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "vanadreswijzigbaar",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    },
+    {
+      "name": "wijzigbaar",
+      "shouldGenerate": false,
+      "tableName": "emailaction"
+    }
+  ]
+}

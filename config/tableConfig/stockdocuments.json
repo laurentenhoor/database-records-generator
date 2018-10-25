@@ -1,0 +1,66 @@
+{
+  "name": "stockdocuments",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "stockdocuments"
+    }
+  ]
+}

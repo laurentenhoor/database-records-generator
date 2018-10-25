@@ -1,0 +1,216 @@
+{
+  "name": "changeactivity_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bestedetijd",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_activitystatusid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_activitystatusid_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_activitystatusid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_approveddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_approveddate_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_approveddate_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_decidedbypersonid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_decidedbypersonid_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_decidedbypersonid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_milestoneid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_milestoneid_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_milestoneid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_operatorid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_operatorid_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_operatorid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_rejecteddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_rejecteddate_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_rejecteddate_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_rejectionreasonid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_rejectionreasonid_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_rejectionreasonid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_resolveddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_resolveddate_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_resolveddate_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_skippeddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_skippeddate_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_skippeddate_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_status",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_statusid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_statusid_act",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "mut_statusid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_mutation"
+    }
+  ]
+}

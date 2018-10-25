@@ -1,0 +1,81 @@
+{
+  "name": "reservationlocationlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "einddatumgepland",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "einddatumgeplandblok",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "reserveringid",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "startdatum",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "startdatumgepland",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "startdatumgeplandblok",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reservationlocationlink"
+    }
+  ]
+}

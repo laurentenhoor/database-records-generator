@@ -1,0 +1,51 @@
+{
+  "name": "campaignjournal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "campaignjournal"
+    }
+  ]
+}

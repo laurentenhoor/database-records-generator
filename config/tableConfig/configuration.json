@@ -1,0 +1,441 @@
+{
+  "name": "configuration",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "gebruikerofgroepkeuze",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "nodenummer",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "soortaansluitingid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "specificatie1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "specificatie2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "specificatie3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "specificatie4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "configuration"
+    }
+  ]
+}

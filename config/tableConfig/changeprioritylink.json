@@ -1,0 +1,26 @@
+{
+  "name": "changeprioritylink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylink"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylink"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylink"
+    }
+  ]
+}

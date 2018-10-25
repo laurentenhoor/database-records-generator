@@ -1,0 +1,66 @@
+{
+  "name": "persoonsgroep__documenten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "persoonsgroep__documenten"
+    }
+  ]
+}

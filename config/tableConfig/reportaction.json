@@ -1,0 +1,96 @@
+{
+  "name": "reportaction",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "filetype",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "locale",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "message",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "reportid",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "reportmailindividual",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "reportmailuserid",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "senderaddress",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "sendmail",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "storefile",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "subject",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reportaction"
+    }
+  ]
+}

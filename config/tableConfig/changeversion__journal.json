@@ -1,0 +1,51 @@
+{
+  "name": "changeversion__journal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeversion__journal"
+    }
+  ]
+}

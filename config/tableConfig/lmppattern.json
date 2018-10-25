@@ -1,0 +1,51 @@
+{
+  "name": "lmppattern",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "cycle",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "endyear",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "lmplinkid",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "startyear",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmppattern"
+    }
+  ]
+}

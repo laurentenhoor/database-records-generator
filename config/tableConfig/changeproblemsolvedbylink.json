@@ -1,0 +1,26 @@
+{
+  "name": "changeproblemsolvedbylink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeproblemsolvedbylink"
+    },
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "changeproblemsolvedbylink"
+    },
+    {
+      "name": "problemid",
+      "shouldGenerate": false,
+      "tableName": "changeproblemsolvedbylink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeproblemsolvedbylink"
+    }
+  ]
+}

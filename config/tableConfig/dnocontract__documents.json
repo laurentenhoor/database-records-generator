@@ -1,0 +1,66 @@
+{
+  "name": "dnocontract__documents",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract__documents"
+    }
+  ]
+}

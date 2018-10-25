@@ -1,0 +1,26 @@
+{
+  "name": "location_functional_use",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "location_functional_use"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "location_functional_use"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "location_functional_use"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location_functional_use"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "mailimportsettings",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "active",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "alternatefolder",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "certificatepath",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "defaultimport",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "directory",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "executeasuserid",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "failedfolder",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "imapfolder",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "imapserver",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "imapuser",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "lastrunstatus",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "lastruntime",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "movefailed",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "movemail",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "notes",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "password",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "portnumber",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "savemail",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "shortdescription",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "sslsecured",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "mailimportsettings"
+    }
+  ]
+}

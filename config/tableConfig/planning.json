@@ -1,0 +1,56 @@
+{
+  "name": "planning",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantalherhalingen",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "eindtype",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "ingeplandtotdatum",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "startdatum",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "planning"
+    }
+  ]
+}

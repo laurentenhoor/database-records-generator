@@ -1,0 +1,21 @@
+{
+  "name": "reservering_persoon_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "reservering_persoon_link"
+    },
+    {
+      "name": "reserveringid",
+      "shouldGenerate": false,
+      "tableName": "reservering_persoon_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reservering_persoon_link"
+    }
+  ]
+}

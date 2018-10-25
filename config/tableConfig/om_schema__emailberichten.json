@@ -1,0 +1,21 @@
+{
+  "name": "om_schema__emailberichten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "om_schema__emailberichten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "om_schema__emailberichten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_schema__emailberichten"
+    }
+  ]
+}

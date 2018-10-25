@@ -1,0 +1,576 @@
+{
+  "name": "location",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "breedte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "capaciteit",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "gebruiksfunctieid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "gebruiksoppervlakte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "gemeensch_ruimte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "glasmateriaal",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "glasoppervlakte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "hoogte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "inhoud_bruto",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "inhoud_netto",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "lengte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "max_capaciteit",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "opstellingwijzigbaar",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "plafondbedekking",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "plafondoppervlakte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "reserveerbaaractiveerbaar",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "reserveerbaarkantooruren",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "reserveerbaarsecure",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "reserveerbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "reservzichtbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "rm_specification",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "ruimteid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "ruimtetypeid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "specificatie",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "verhuurbaaroppervlakte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "verhuurborg",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "verhuurprijs",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "verhuurprijssysteem",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "verhuurtekst",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "verkeersruimte_hor",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "verkeersruimte_vert",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vloerbedekking",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vloeropp_bruto",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vloeropp_netto",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vloeropp_tarra",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vloeroppervlakte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "wandbedekking",
+      "shouldGenerate": false,
+      "tableName": "location"
+    },
+    {
+      "name": "wandoppervlakte",
+      "shouldGenerate": false,
+      "tableName": "location"
+    }
+  ]
+}

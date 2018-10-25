@@ -1,0 +1,441 @@
+{
+  "name": "lmpactivity",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "branchid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "budgetholderid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "codeid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "locationid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "remarks",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "request",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "specifiedlocation",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "subcodeid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "typeid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    },
+    {
+      "name": "worktypeid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivity"
+    }
+  ]
+}

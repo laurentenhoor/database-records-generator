@@ -1,0 +1,36 @@
+{
+  "name": "knowledgebaseclick",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "gebruikerid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebaseclick"
+    },
+    {
+      "name": "kennisid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebaseclick"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebaseclick"
+    },
+    {
+      "name": "tijdstip",
+      "shouldGenerate": false,
+      "tableName": "knowledgebaseclick"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "knowledgebaseclick"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebaseclick"
+    }
+  ]
+}

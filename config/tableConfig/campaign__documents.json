@@ -1,0 +1,66 @@
+{
+  "name": "campaign__documents",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "campaign__documents"
+    }
+  ]
+}

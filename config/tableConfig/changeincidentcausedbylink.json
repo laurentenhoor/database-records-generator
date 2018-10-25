@@ -1,0 +1,21 @@
+{
+  "name": "changeincidentcausedbylink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "changeincidentcausedbylink"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "changeincidentcausedbylink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeincidentcausedbylink"
+    }
+  ]
+}

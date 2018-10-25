@@ -1,0 +1,51 @@
+{
+  "name": "userjournal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "userjournal"
+    }
+  ]
+}

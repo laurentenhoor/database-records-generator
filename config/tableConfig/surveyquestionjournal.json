@@ -1,0 +1,51 @@
+{
+  "name": "surveyquestionjournal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "surveyquestionjournal"
+    }
+  ]
+}

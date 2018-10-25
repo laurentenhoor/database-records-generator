@@ -1,0 +1,86 @@
+{
+  "name": "changeactivity_memo_history",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "attachment",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "gebruikerid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "invisibleforcaller",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "memotekst",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "origin",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "recordtimestamp",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    },
+    {
+      "name": "veldnaam",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_memo_history"
+    }
+  ]
+}

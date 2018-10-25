@@ -1,0 +1,71 @@
+{
+  "name": "dnocontract_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "mut_behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "mut_behandelaarid_act",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "mut_behandelaarid_rid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "mut_contractstatusid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "mut_contractstatusid_act",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "mut_contractstatusid_rid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "dnocontract_mutation"
+    }
+  ]
+}

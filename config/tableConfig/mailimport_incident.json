@@ -1,0 +1,146 @@
+{
+  "name": "mailimport_incident",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actiontypeclosed",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "actiontypecompleted",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "branchid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "calltypeid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "defaultoperatorid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "entryid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "fieldtoupdate",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "incident_line",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "mailaddressunknown",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "mailimportsettingsid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "processingstatusclosed",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "processingstatuscompleted",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "processingstatusopen",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "statusclosedid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "statuscompletedid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "statusopenid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "subject2description",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_incident"
+    }
+  ]
+}

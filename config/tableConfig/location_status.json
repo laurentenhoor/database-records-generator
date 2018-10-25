@@ -1,0 +1,26 @@
+{
+  "name": "location_status",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "location_status"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "location_status"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "location_status"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location_status"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "serviceobjectlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "serviceobjectlink"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "serviceobjectlink"
+    },
+    {
+      "name": "standaard",
+      "shouldGenerate": false,
+      "tableName": "serviceobjectlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "serviceobjectlink"
+    },
+    {
+      "name": "voorzieningid",
+      "shouldGenerate": false,
+      "tableName": "serviceobjectlink"
+    }
+  ]
+}

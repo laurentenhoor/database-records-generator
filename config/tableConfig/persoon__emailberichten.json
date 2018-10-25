@@ -1,0 +1,21 @@
+{
+  "name": "persoon__emailberichten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "persoon__emailberichten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "persoon__emailberichten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "persoon__emailberichten"
+    }
+  ]
+}

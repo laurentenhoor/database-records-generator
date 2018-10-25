@@ -1,0 +1,21 @@
+{
+  "name": "change_activitytemplate__emailberichten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate__emailberichten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate__emailberichten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate__emailberichten"
+    }
+  ]
+}

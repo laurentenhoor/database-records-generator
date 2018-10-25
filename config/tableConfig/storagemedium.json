@@ -1,0 +1,26 @@
+{
+  "name": "storagemedium",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "storagemedium"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "storagemedium"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "storagemedium"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "storagemedium"
+    }
+  ]
+}

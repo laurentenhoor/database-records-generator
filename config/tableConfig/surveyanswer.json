@@ -1,0 +1,56 @@
+{
+  "name": "surveyanswer",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "answertype",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "rank",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "surveyquestionid",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "surveyanswer"
+    }
+  ]
+}

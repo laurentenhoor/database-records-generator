@@ -1,0 +1,66 @@
+{
+  "name": "supplier__documents",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "supplier__documents"
+    }
+  ]
+}

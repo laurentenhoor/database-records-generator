@@ -1,0 +1,26 @@
+{
+  "name": "rm_series_status",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "rm_series_status"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "rm_series_status"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "rm_series_status"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_status"
+    }
+  ]
+}

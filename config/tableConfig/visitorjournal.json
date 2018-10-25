@@ -1,0 +1,51 @@
+{
+  "name": "visitorjournal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "visitorjournal"
+    }
+  ]
+}

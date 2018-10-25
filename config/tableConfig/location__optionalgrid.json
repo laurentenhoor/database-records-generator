@@ -1,0 +1,356 @@
+{
+  "name": "location__optionalgrid",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "location__optionalgrid"
+    }
+  ]
+}

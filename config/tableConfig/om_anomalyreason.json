@@ -1,0 +1,26 @@
+{
+  "name": "om_anomalyreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "om_anomalyreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "om_anomalyreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "om_anomalyreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_anomalyreason"
+    }
+  ]
+}

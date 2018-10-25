@@ -1,0 +1,506 @@
+{
+  "name": "visitor",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanmelderafdelingid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "aanmelderbudgethouderid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "aanmelderemail",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "aanmelderlokatieid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "aanmeldernaam",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "aanmeldertelefoon",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "aanmeldervestigingid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "bezoekerbedrijf",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "commentaar",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "email",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "extraapersoonid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "extrabpersoonid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "identiteitsbewijsid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "identiteitsnummer",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "nummer",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "nummerplaat",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "parkeerplaatsid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "passid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "telefoon",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "verwachteaankomst",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "verwachtvertrek",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "werkelijkeaankomst",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    },
+    {
+      "name": "werkelijkvertrek",
+      "shouldGenerate": false,
+      "tableName": "visitor"
+    }
+  ]
+}

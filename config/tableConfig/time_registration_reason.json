@@ -1,0 +1,26 @@
+{
+  "name": "time_registration_reason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "time_registration_reason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "time_registration_reason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "time_registration_reason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_reason"
+    }
+  ]
+}

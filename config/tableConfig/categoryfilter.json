@@ -1,0 +1,61 @@
+{
+  "name": "categoryfilter",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "active",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "shownocategory",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    },
+    {
+      "name": "userscope",
+      "shouldGenerate": false,
+      "tableName": "categoryfilter"
+    }
+  ]
+}

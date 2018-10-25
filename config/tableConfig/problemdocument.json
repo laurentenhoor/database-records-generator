@@ -1,0 +1,71 @@
+{
+  "name": "problemdocument",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "isremoved",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "problemdocument"
+    }
+  ]
+}

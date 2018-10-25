@@ -1,0 +1,91 @@
+{
+  "name": "mailimport_change",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "benefitid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "branchid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "defaultoperatorid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "fieldtoupdate_activity",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "fieldtoupdate_change",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "mailaddressunknown",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "mailimportsettingsid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "mailimport_change"
+    }
+  ]
+}

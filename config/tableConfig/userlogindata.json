@@ -1,0 +1,116 @@
+{
+  "name": "userlogindata",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "defaultprofile",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "defaultprofilenaam",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "groepoms",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "inlognaam",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "login_date",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "maginloggen",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "passhash",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "supervrecht",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "sv",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "userlogindata"
+    }
+  ]
+}

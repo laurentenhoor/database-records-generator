@@ -1,0 +1,575 @@
+{
+  "name": "incident",
+  "entryAmount": 5,
+  "includeSoftDependent": false,
+  "columnsConfig": [
+    {
+      "name": "aanmelderafdelingid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "aanmelderbudgethouderid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "aanmelderemail",
+      "generator": "TEXT"
+    },
+    {
+      "name": "aanmelderlokatieid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "aanmeldernaam",
+      "generator": "TEXT"
+    },
+    {
+      "name": "aanmeldertelefoon",
+      "generator": "TEXT"
+    },
+    {
+      "name": "aanmeldervestigingid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "aantekeningen",
+      "generator": "MEMO"
+    },
+    {
+      "name": "actie",
+      "generator": "MEMO"
+    },
+    {
+      "name": "adjustedduration",
+      "generator": "LONG"
+    },
+    {
+      "name": "afgemeld",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "afhandelingstatusid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "archiefredenid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijedatum1",
+      "generator": "DATE"
+    },
+    {
+      "name": "attvrijedatum2",
+      "generator": "DATE"
+    },
+    {
+      "name": "attvrijedatum3",
+      "generator": "DATE"
+    },
+    {
+      "name": "attvrijedatum4",
+      "generator": "DATE"
+    },
+    {
+      "name": "attvrijedatum5",
+      "generator": "DATE"
+    },
+    {
+      "name": "attvrijegetal1",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "attvrijegetal2",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "attvrijegetal3",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "attvrijegetal4",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "attvrijegetal5",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "attvrijememo1",
+      "generator": "MEMO"
+    },
+    {
+      "name": "attvrijememo2",
+      "generator": "MEMO"
+    },
+    {
+      "name": "attvrijememo3",
+      "generator": "MEMO"
+    },
+    {
+      "name": "attvrijememo4",
+      "generator": "MEMO"
+    },
+    {
+      "name": "attvrijememo5",
+      "generator": "MEMO"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijetekst1",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijetekst2",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijetekst3",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijetekst4",
+      "generator": "TEXT"
+    },
+    {
+      "name": "attvrijetekst5",
+      "generator": "TEXT"
+    },
+    {
+      "name": "bespokememo",
+      "generator": "MEMO"
+    },
+    {
+      "name": "betreftkeuze",
+      "generator": "INTEGER"
+    },
+    {
+      "name": "bewaakt",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "configuratieid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "configuratieobjectid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "creation_date",
+      "generator": "DATE"
+    },
+    {
+      "name": "creator_id",
+      "generator": "TEXT"
+    },
+    {
+      "name": "datumaangemeld",
+      "generator": "DATE"
+    },
+    {
+      "name": "datumafgemeld",
+      "generator": "DATE"
+    },
+    {
+      "name": "datumafspraak",
+      "generator": "DATE"
+    },
+    {
+      "name": "datumafspraaksla",
+      "generator": "DATE"
+    },
+    {
+      "name": "datumgereed",
+      "generator": "DATE"
+    },
+    {
+      "name": "deelactievolgnummer",
+      "generator": "INTEGER"
+    },
+    {
+      "name": "deescalatieredenid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "dnoid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "doorlooptijdid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "emailstatus",
+      "generator": "INTEGER"
+    },
+    {
+      "name": "escalatieredenid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "escalationoperatorid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "externnummer",
+      "generator": "TEXT"
+    },
+    {
+      "name": "extraaid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "extraapersoonid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "extrabid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "extrabpersoonid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "gedeescaleerd",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "geescaleerd",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "gereed",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "impactid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "importdate",
+      "generator": "DATE"
+    },
+    {
+      "name": "importid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "importtype",
+      "generator": "INTEGER"
+    },
+    {
+      "name": "incident_domeinid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "incident_specid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "incidentid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "ismajorincident",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "korteomschrijving",
+      "generator": "TEXT"
+    },
+    {
+      "name": "kosten_artikelen",
+      "generator": "BIGDECIMAL"
+    },
+    {
+      "name": "kosten_objecten",
+      "generator": "BIGDECIMAL"
+    },
+    {
+      "name": "lijn1tijdbesteed",
+      "generator": "LONG"
+    },
+    {
+      "name": "locatieid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "majorincidentid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "minutendoorlooptijd",
+      "generator": "LONG"
+    },
+    {
+      "name": "modification_date",
+      "generator": "DATE"
+    },
+    {
+      "name": "modifier_id",
+      "generator": "TEXT"
+    },
+    {
+      "name": "naam",
+      "generator": "TEXT"
+    },
+    {
+      "name": "onhold",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "onholddatum",
+      "generator": "DATE"
+    },
+    {
+      "name": "onholdduration",
+      "generator": "LONG"
+    },
+    {
+      "name": "onkosten",
+      "generator": "BIGDECIMAL"
+    },
+    {
+      "name": "operatorgroupid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "operatorid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "oplosmethodeid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "oplossingid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "persoonid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "priorityid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "savedinsecure",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "soortbinnenkomstid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "soortmeldingid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "state",
+      "generator": "INTEGER"
+    },
+    {
+      "name": "supplierid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "tijdbesteed",
+      "generator": "LONG"
+    },
+    {
+      "name": "totaleonkosten",
+      "generator": "BIGDECIMAL"
+    },
+    {
+      "name": "totaletijd",
+      "generator": "LONG"
+    },
+    {
+      "name": "unid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "urgencyid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "verwtijdbesteed",
+      "generator": "LONG"
+    },
+    {
+      "name": "verzoek",
+      "generator": "MEMO"
+    },
+    {
+      "name": "vestigingid",
+      "generator": "TEXT"
+    },
+    {
+      "name": "volgnummer",
+      "generator": "INTEGER"
+    },
+    {
+      "name": "vrijedatum1",
+      "generator": "DATE"
+    },
+    {
+      "name": "vrijedatum2",
+      "generator": "DATE"
+    },
+    {
+      "name": "vrijedatum3",
+      "generator": "DATE"
+    },
+    {
+      "name": "vrijedatum4",
+      "generator": "DATE"
+    },
+    {
+      "name": "vrijedatum5",
+      "generator": "DATE"
+    },
+    {
+      "name": "vrijegetal1",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "vrijegetal2",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "vrijegetal3",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "vrijegetal4",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "vrijegetal5",
+      "generator": "DOUBLE"
+    },
+    {
+      "name": "vrijelogisch1",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "vrijelogisch2",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "vrijelogisch3",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "vrijelogisch4",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "vrijelogisch5",
+      "generator": "BOOLEAN"
+    },
+    {
+      "name": "vrijememo1",
+      "generator": "MEMO"
+    },
+    {
+      "name": "vrijememo2",
+      "generator": "MEMO"
+    },
+    {
+      "name": "vrijememo3",
+      "generator": "MEMO"
+    },
+    {
+      "name": "vrijememo4",
+      "generator": "MEMO"
+    },
+    {
+      "name": "vrijememo5",
+      "generator": "MEMO"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijetekst1",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijetekst2",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijetekst3",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijetekst4",
+      "generator": "TEXT"
+    },
+    {
+      "name": "vrijetekst5",
+      "generator": "TEXT"
+    }
+  ]
+}

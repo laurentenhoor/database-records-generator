@@ -1,0 +1,26 @@
+{
+  "name": "slacontracttype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "slacontracttype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "slacontracttype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "slacontracttype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slacontracttype"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "audittrailreasonlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "geschiedenisid",
+      "shouldGenerate": false,
+      "tableName": "audittrailreasonlink"
+    },
+    {
+      "name": "mutatieredenid",
+      "shouldGenerate": false,
+      "tableName": "audittrailreasonlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "audittrailreasonlink"
+    }
+  ]
+}

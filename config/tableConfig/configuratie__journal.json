@@ -1,0 +1,51 @@
+{
+  "name": "configuratie__journal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "configuratie__journal"
+    }
+  ]
+}

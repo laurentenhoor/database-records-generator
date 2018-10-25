@@ -1,0 +1,71 @@
+{
+  "name": "location__documents",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "isremoved",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location__documents"
+    }
+  ]
+}

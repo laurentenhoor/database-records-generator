@@ -1,0 +1,56 @@
+{
+  "name": "articleorderlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "aantalgeleverd",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "artikelid",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "artikelkorting",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "bestellingid",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "btwsoortid",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "fase",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "prijs",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "articleorderlink"
+    }
+  ]
+}

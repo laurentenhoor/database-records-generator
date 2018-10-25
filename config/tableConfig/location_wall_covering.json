@@ -1,0 +1,26 @@
+{
+  "name": "location_wall_covering",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "location_wall_covering"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "location_wall_covering"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "location_wall_covering"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location_wall_covering"
+    }
+  ]
+}

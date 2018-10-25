@@ -1,0 +1,51 @@
+{
+  "name": "locationjournal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "locationjournal"
+    }
+  ]
+}

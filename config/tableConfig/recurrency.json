@@ -1,0 +1,146 @@
+{
+  "name": "recurrency",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "daginterval",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "dagvanjaar",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "dagvanmaand",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "dagvanweek",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "dinsdag",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "donderdag",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "doorlooptijd",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "jaarinterval",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "jaarperiode",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "maandag",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "maandinterval",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "maandperiode",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "maandvanjaar",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "periode",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "planningid",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "starttijd",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "vrijdag",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "weekinterval",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "weekvanjaar",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "weekvanmaand",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "woensdag",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "zaterdag",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    },
+    {
+      "name": "zondag",
+      "shouldGenerate": false,
+      "tableName": "recurrency"
+    }
+  ]
+}

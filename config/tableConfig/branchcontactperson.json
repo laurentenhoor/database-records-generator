@@ -1,0 +1,21 @@
+{
+  "name": "branchcontactperson",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "id",
+      "shouldGenerate": false,
+      "tableName": "branchcontactperson"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "branchcontactperson"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "branchcontactperson"
+    }
+  ]
+}

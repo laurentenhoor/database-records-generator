@@ -1,0 +1,96 @@
+{
+  "name": "campaignmailing",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "campaignid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "incidentselectionid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "invitationmailid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "personselectionid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "randomselectionsize",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "selectiontype",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    },
+    {
+      "name": "userandomselection",
+      "shouldGenerate": false,
+      "tableName": "campaignmailing"
+    }
+  ]
+}

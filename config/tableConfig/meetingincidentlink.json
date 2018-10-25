@@ -1,0 +1,21 @@
+{
+  "name": "meetingincidentlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "meetingincidentlink"
+    },
+    {
+      "name": "meetingid",
+      "shouldGenerate": false,
+      "tableName": "meetingincidentlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "meetingincidentlink"
+    }
+  ]
+}

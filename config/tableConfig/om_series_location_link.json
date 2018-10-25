@@ -1,0 +1,21 @@
+{
+  "name": "om_series_location_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "om_series_location_link"
+    },
+    {
+      "name": "om_reeksid",
+      "shouldGenerate": false,
+      "tableName": "om_series_location_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_series_location_link"
+    }
+  ]
+}

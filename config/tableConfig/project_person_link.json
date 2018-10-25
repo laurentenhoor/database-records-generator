@@ -1,0 +1,21 @@
+{
+  "name": "project_person_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "personid",
+      "shouldGenerate": false,
+      "tableName": "project_person_link"
+    },
+    {
+      "name": "projectitemid",
+      "shouldGenerate": false,
+      "tableName": "project_person_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "project_person_link"
+    }
+  ]
+}

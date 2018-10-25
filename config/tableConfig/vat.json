@@ -1,0 +1,31 @@
+{
+  "name": "vat",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "vat"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "vat"
+    },
+    {
+      "name": "percentage",
+      "shouldGenerate": false,
+      "tableName": "vat"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "vat"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "vat"
+    }
+  ]
+}

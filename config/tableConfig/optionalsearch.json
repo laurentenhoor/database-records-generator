@@ -1,0 +1,36 @@
+{
+  "name": "optionalsearch",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "optionalsearch"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "optionalsearch"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "optionalsearch"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "optionalsearch"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "optionalsearch"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "optionalsearch"
+    }
+  ]
+}

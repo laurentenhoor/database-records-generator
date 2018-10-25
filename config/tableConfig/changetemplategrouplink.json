@@ -1,0 +1,21 @@
+{
+  "name": "changetemplategrouplink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "changetemplateid",
+      "shouldGenerate": false,
+      "tableName": "changetemplategrouplink"
+    },
+    {
+      "name": "groupid",
+      "shouldGenerate": false,
+      "tableName": "changetemplategrouplink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changetemplategrouplink"
+    }
+  ]
+}

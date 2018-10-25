@@ -1,0 +1,21 @@
+{
+  "name": "planning_multidate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "date",
+      "shouldGenerate": false,
+      "tableName": "planning_multidate"
+    },
+    {
+      "name": "planningid",
+      "shouldGenerate": false,
+      "tableName": "planning_multidate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "planning_multidate"
+    }
+  ]
+}

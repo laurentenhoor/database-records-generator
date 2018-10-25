@@ -1,0 +1,381 @@
+{
+  "name": "object",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_aankoopbedrag",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_aanschafdatum",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_aanspreekpuntid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_artikelstatus",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_artikelstatusid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_artikelwordtobject",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_attentieid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_bestelbaarinssh",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_confignaam",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_configuratieid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_gebruiker",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_groepid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_heeftvoorraad",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_hostnaam",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_huidigevoorraad",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_ipadres",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_kleur",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_leaseaanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_leasecontractnummer",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_leaseeinddatum",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_leaseperiode",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_leaseprijs",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_leverancierid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_licentiesoortid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_lokatie",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_lokatieid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_merk",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_merkid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_naam",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_objectplaats",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_opmerking",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_ordernummer",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_persoon",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_persoongroep",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_persoonid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_plaats",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_plaatskeuze",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_reserveerbaaractiveerbaar",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_reserveerbaarkantooruren",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_reserveerbaarsecure",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_reserveerbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_reservzichtbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_restwaarde",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_rm_specification",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_serienummer",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_softwarekaartid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_soort",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_soortid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_specificatie",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_status",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_stdresvbehandelaarid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_type",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_typeid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_veiligvoorraad",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_verhuurborg",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_verhuurprijs",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_verhuurprijssysteem",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_verhuurtekst",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_verkoopprijs",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_vestiging",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "ref_vestigingid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    },
+    {
+      "name": "wijzigingsid",
+      "shouldGenerate": false,
+      "tableName": "object"
+    }
+  ]
+}

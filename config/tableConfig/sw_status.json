@@ -1,0 +1,26 @@
+{
+  "name": "sw_status",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "sw_status"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "sw_status"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "sw_status"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "sw_status"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "lmpactivitystatus",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "lmpactivitystatus"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "lmpactivitystatus"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "lmpactivitystatus"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmpactivitystatus"
+    }
+  ]
+}

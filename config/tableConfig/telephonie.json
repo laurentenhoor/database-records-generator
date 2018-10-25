@@ -1,0 +1,906 @@
+{
+  "name": "telephonie",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aankoopbedrag",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "aanschafdatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "aanspreekpuntid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "abeinddatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ablooptijd",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "abonnement",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "abstartdatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "abverlengdatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "afschrijftermijn",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "artikelbestellinkid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "artikelstatusid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "artikelwordtobject",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "bestelbaarinssh",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "bestellingid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "configuratieid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "datumeersteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "datumgeplandonderhoud",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "datumlaatsteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "diversenonderhoud",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "garantiedatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "heeftonderhoudsplan",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "heeftvoorraad",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "hostnaam",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "huidigevoorraad",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "imeinummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "installatiedoorid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ipadres",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ismobiel",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "kaartnummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "leaseaanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "leasecontractnummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "leaseeinddatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "leaseinfo",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "leaseperiode",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "leaseprijs",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "merkid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "mobielnummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "nummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "objecttype",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "objecttypeid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoud_doorid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudcontract",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudnummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudprijs",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudresponsietijd",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudslacontractid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudslagebruikt",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudsoortid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudsplanid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudtot",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "onderhoudvanaf",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ordernummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "plaatskeuze",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "pukcode",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_aanspreekpunt",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_configuratie",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_finbudgethouder",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_kleur",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_lokatie",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_merk",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_persoon",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_persoongroep",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_plaats1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_soort",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "ref_vestiging",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "reserveerbaaractiveerbaar",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "reserveerbaarkantooruren",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "reserveerbaarsecure",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "reserveerbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "reservzichtbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "restwaarde",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "riccode",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "rm_specification",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "serienummer",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "serviceid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "sjabloonobjectid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "soortabonnementid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "specificatie",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "stdresvbehandelaarid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "veiligvoorraad",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "verhuurborg",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "verhuurprijs",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "verhuurprijssysteem",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "verhuurtekst",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "verkoopprijs",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "verzekerdatum",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vnc",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vnchostnaam",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "wburl",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    },
+    {
+      "name": "webbrowser",
+      "shouldGenerate": false,
+      "tableName": "telephonie"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "om_activity_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bestedetijd",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_behandelaarid_act",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_behandelaarid_rid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_act",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_rid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_statusid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_statusid_act",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "mut_statusid_rid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_mutation"
+    }
+  ]
+}

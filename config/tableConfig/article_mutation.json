@@ -1,0 +1,91 @@
+{
+  "name": "article_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "artikelbestellinkid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "artikelid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "bestelaanvraagartikellinkid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "datum",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "kostendeclaratieleverancierid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "mutatieredenid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "tussenvoorraad",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    },
+    {
+      "name": "voorraadid",
+      "shouldGenerate": false,
+      "tableName": "article_mutation"
+    }
+  ]
+}

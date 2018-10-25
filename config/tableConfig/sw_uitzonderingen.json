@@ -1,0 +1,41 @@
+{
+  "name": "sw_uitzonderingen",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "datum",
+      "shouldGenerate": false,
+      "tableName": "sw_uitzonderingen"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "sw_uitzonderingen"
+    },
+    {
+      "name": "openingstijd",
+      "shouldGenerate": false,
+      "tableName": "sw_uitzonderingen"
+    },
+    {
+      "name": "sluitingstijd",
+      "shouldGenerate": false,
+      "tableName": "sw_uitzonderingen"
+    },
+    {
+      "name": "swid",
+      "shouldGenerate": false,
+      "tableName": "sw_uitzonderingen"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "sw_uitzonderingen"
+    },
+    {
+      "name": "workday",
+      "shouldGenerate": false,
+      "tableName": "sw_uitzonderingen"
+    }
+  ]
+}

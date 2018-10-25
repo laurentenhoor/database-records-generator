@@ -1,0 +1,31 @@
+{
+  "name": "budgetholder",
+  "entryAmount": 4,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": true,
+      "tableName": "budgetholder"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": true,
+      "tableName": "budgetholder"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": true,
+      "tableName": "budgetholder"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": true,
+      "tableName": "budgetholder"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": true,
+      "tableName": "budgetholder"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "attention",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "attention"
+    },
+    {
+      "name": "kleur",
+      "shouldGenerate": false,
+      "tableName": "attention"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "attention"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "attention"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "attention"
+    }
+  ]
+}

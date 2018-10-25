@@ -1,0 +1,26 @@
+{
+  "name": "lmptype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "lmptype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "lmptype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "lmptype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmptype"
+    }
+  ]
+}

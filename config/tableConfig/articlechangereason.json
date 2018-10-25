@@ -1,0 +1,26 @@
+{
+  "name": "articlechangereason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "articlechangereason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "articlechangereason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "articlechangereason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "articlechangereason"
+    }
+  ]
+}

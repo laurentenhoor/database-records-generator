@@ -1,0 +1,51 @@
+{
+  "name": "orderrequest_article_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "aantaluitgeleverd",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "artikelid",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "geaccepteerd",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    },
+    {
+      "name": "verkoopprijs",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_article_link"
+    }
+  ]
+}

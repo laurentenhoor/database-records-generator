@@ -1,0 +1,86 @@
+{
+  "name": "branchfilter",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "active",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "allowescalate",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "branchtype",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "head2sub",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "shownobranch",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "sub2head",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "sub2sub",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    },
+    {
+      "name": "userscope",
+      "shouldGenerate": false,
+      "tableName": "branchfilter"
+    }
+  ]
+}

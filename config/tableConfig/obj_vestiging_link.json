@@ -1,0 +1,31 @@
+{
+  "name": "obj_vestiging_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "obj_vestiging_link"
+    },
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "obj_vestiging_link"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "obj_vestiging_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "obj_vestiging_link"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "obj_vestiging_link"
+    }
+  ]
+}

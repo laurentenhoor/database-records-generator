@@ -1,0 +1,36 @@
+{
+  "name": "locationroomarrangementlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "capaciteit",
+      "shouldGenerate": false,
+      "tableName": "locationroomarrangementlink"
+    },
+    {
+      "name": "isstandaard",
+      "shouldGenerate": false,
+      "tableName": "locationroomarrangementlink"
+    },
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "locationroomarrangementlink"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "locationroomarrangementlink"
+    },
+    {
+      "name": "opstellingid",
+      "shouldGenerate": false,
+      "tableName": "locationroomarrangementlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "locationroomarrangementlink"
+    }
+  ]
+}

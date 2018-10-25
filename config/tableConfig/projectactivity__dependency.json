@@ -1,0 +1,26 @@
+{
+  "name": "projectactivity__dependency",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aansluiten",
+      "shouldGenerate": false,
+      "tableName": "projectactivity__dependency"
+    },
+    {
+      "name": "kopid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity__dependency"
+    },
+    {
+      "name": "staartid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity__dependency"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity__dependency"
+    }
+  ]
+}

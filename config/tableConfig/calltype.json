@@ -1,0 +1,31 @@
+{
+  "name": "calltype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "calltype"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "calltype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "calltype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "calltype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "calltype"
+    }
+  ]
+}

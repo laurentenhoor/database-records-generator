@@ -1,0 +1,21 @@
+{
+  "name": "changegrouplink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "changegrouplink"
+    },
+    {
+      "name": "groupid",
+      "shouldGenerate": false,
+      "tableName": "changegrouplink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changegrouplink"
+    }
+  ]
+}

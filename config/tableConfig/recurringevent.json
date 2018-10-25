@@ -1,0 +1,66 @@
+{
+  "name": "recurringevent",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "active",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "eventname",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "interval",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "nextrun",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "recurringevent"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "knowledgebasebranchlinkpublic",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "kennisid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasebranchlinkpublic"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasebranchlinkpublic"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasebranchlinkpublic"
+    }
+  ]
+}

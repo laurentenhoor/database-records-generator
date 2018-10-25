@@ -1,0 +1,26 @@
+{
+  "name": "location_floor_covering",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "location_floor_covering"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "location_floor_covering"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "location_floor_covering"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location_floor_covering"
+    }
+  ]
+}

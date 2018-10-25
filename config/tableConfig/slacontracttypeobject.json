@@ -1,0 +1,31 @@
+{
+  "name": "slacontracttypeobject",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "slacontracttypeobject"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "slacontracttypeobject"
+    },
+    {
+      "name": "responsietijd",
+      "shouldGenerate": false,
+      "tableName": "slacontracttypeobject"
+    },
+    {
+      "name": "tekst",
+      "shouldGenerate": false,
+      "tableName": "slacontracttypeobject"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slacontracttypeobject"
+    }
+  ]
+}

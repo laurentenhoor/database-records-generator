@@ -1,0 +1,836 @@
+{
+  "name": "newchange",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanmelderafdelingid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "aanmelderbudgethouderid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "aanmelderemail",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "aanmelderlokatieid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "aanmeldernaam",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "aanmeldertelefoon",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "aanmeldervestigingid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "action",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "archivereasonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "authorizationdate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "benefitid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "branchid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "briefdescription",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "calc_type_authdate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "calc_type_finaldate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "calc_type_impldate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "calldate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "canceldate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "canceledby",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "canceledbyoperatorid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "canceledbypersonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "cancelreasonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "changetype",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "closed",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "closeddate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "comments",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "completed",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "completeddate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "currentphase",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "currentplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "currentplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "estimateexpenses",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "estimatetimetaken",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "eval_authoperatorid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "eval_authpersonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "eval_decidedby",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "expenses",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "externalnumber",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "extraapersoonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "extrabpersoonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "finaldate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "implementationdate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "locationid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "managerid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "mayauthorize_eval",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "mayauthorize_pro",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "mayauthorize_rfc",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "milestoneid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "notes",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "number",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "originalplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "originalplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "plannedauthdate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "plannedfinaldate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "plannedimpldate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "plannedstartdate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "pro_authoperatorid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "pro_authpersonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "pro_decidedby",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "pro_rejecteddate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "publish_description",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "publish_description_type",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "publish_title",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "publish_type",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "rejected",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "rejectedby",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "rejecteddate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "rejectionreasonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "req_authoperatorid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "req_authpersonid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "started",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "starteddate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "submitdate",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "sum_realizedexpenses",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "sum_realizedtime",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "sum_remainingexpenses",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "sum_remainingtime",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "templateid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "timetaken",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "typeid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "versionid",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    },
+    {
+      "name": "withevaluation",
+      "shouldGenerate": false,
+      "tableName": "newchange"
+    }
+  ]
+}

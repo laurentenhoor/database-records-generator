@@ -1,0 +1,71 @@
+{
+  "name": "knowledgebasetranslations",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "kennisid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "onderwerp",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "taalid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "toelichting",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "trefwoorden",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasetranslations"
+    }
+  ]
+}

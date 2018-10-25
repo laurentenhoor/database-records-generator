@@ -1,0 +1,51 @@
+{
+  "name": "dnodienst__logboek",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "dnodienst__logboek"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "incidentknowledgebaselink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "incidentknowledgebaselink"
+    },
+    {
+      "name": "kennisid",
+      "shouldGenerate": false,
+      "tableName": "incidentknowledgebaselink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "incidentknowledgebaselink"
+    }
+  ]
+}

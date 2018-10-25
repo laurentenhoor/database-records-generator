@@ -1,0 +1,21 @@
+{
+  "name": "userroleslink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "userroleslink"
+    },
+    {
+      "name": "usergroepid1",
+      "shouldGenerate": false,
+      "tableName": "userroleslink"
+    },
+    {
+      "name": "usergroepid2",
+      "shouldGenerate": false,
+      "tableName": "userroleslink"
+    }
+  ]
+}

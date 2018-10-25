@@ -1,0 +1,76 @@
+{
+  "name": "changeauthorization",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "authorizationdate",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "authorized",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "byoperatorid",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "bypersonid",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "newphase",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "oldphase",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeauthorization"
+    }
+  ]
+}

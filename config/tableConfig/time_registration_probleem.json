@@ -1,0 +1,66 @@
+{
+  "name": "time_registration_probleem",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "cardid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "entrydate",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "reason",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "timetaken",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_probleem"
+    }
+  ]
+}

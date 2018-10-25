@@ -1,0 +1,66 @@
+{
+  "name": "om_schema__documenten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_schema__documenten"
+    }
+  ]
+}

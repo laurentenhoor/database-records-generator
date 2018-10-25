@@ -1,0 +1,21 @@
+{
+  "name": "branchfilteruserlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "branchfilterid",
+      "shouldGenerate": false,
+      "tableName": "branchfilteruserlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "branchfilteruserlink"
+    },
+    {
+      "name": "userid",
+      "shouldGenerate": false,
+      "tableName": "branchfilteruserlink"
+    }
+  ]
+}

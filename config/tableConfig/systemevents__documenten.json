@@ -1,0 +1,71 @@
+{
+  "name": "systemevents__documenten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "isremoved",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "systemevents__documenten"
+    }
+  ]
+}

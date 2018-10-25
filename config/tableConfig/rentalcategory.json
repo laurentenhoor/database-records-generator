@@ -1,0 +1,31 @@
+{
+  "name": "rentalcategory",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "rentalcategory"
+    },
+    {
+      "name": "korting",
+      "shouldGenerate": false,
+      "tableName": "rentalcategory"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "rentalcategory"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "rentalcategory"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "rentalcategory"
+    }
+  ]
+}

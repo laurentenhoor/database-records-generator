@@ -1,0 +1,26 @@
+{
+  "name": "subscriptiontype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "subscriptiontype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "subscriptiontype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "subscriptiontype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "subscriptiontype"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "importcouple",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "id",
+      "shouldGenerate": false,
+      "tableName": "importcouple"
+    },
+    {
+      "name": "runid",
+      "shouldGenerate": false,
+      "tableName": "importcouple"
+    },
+    {
+      "name": "source",
+      "shouldGenerate": false,
+      "tableName": "importcouple"
+    },
+    {
+      "name": "target",
+      "shouldGenerate": false,
+      "tableName": "importcouple"
+    }
+  ]
+}

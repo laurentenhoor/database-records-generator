@@ -1,0 +1,826 @@
+{
+  "name": "vrij2object",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aankoopbedrag",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "aanschafdatum",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "aanspreekpuntid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "afschrijftermijn",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "artikelbestellinkid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "artikelstatusid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "artikelwordtobject",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "bestelbaarinssh",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "bestellingid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "configuratieid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "datumeersteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "datumgeplandonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "datumlaatsteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "diversenonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "garantiedatum",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "heeftonderhoudsplan",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "heeftvoorraad",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "hostnaam",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "huidigevoorraad",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "installatiedoorid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "leaseaanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "leasecontractnummer",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "leaseeinddatum",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "leaseinfo",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "leaseperiode",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "leaseprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "merkid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "objecttype",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "objecttypeid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoud_doorid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudcontract",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudnummer",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudresponsietijd",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudslacontractid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudslagebruikt",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudsoortid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudsplanid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudtot",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "onderhoudvanaf",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ordernummer",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "plaatskeuze",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_aanspreekpunt",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_configuratie",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_finbudgethouder",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_kleur",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_lokatie",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_merk",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_persoon",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_persoongroep",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_plaats1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_soort",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "ref_vestiging",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "reserveerbaaractiveerbaar",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "reserveerbaarkantooruren",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "reserveerbaarsecure",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "reserveerbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "reservzichtbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "restwaarde",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "rm_specification",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "serienummer",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "sjabloonobjectid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "specificatie",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "stdresvbehandelaarid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "veiligvoorraad",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "verhuurborg",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "verhuurprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "verhuurprijssysteem",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "verhuurtekst",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "verkoopprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "verzekerdatum",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vnc",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vnchostnaam",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "wburl",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    },
+    {
+      "name": "webbrowser",
+      "shouldGenerate": false,
+      "tableName": "vrij2object"
+    }
+  ]
+}

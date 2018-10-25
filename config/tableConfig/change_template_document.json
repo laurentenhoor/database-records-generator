@@ -1,0 +1,71 @@
+{
+  "name": "change_template_document",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "isremoved",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_template_document"
+    }
+  ]
+}

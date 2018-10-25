@@ -1,0 +1,21 @@
+{
+  "name": "changeactivityorderlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "activityid",
+      "shouldGenerate": false,
+      "tableName": "changeactivityorderlink"
+    },
+    {
+      "name": "orderid",
+      "shouldGenerate": false,
+      "tableName": "changeactivityorderlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivityorderlink"
+    }
+  ]
+}

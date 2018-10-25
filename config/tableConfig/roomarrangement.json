@@ -1,0 +1,26 @@
+{
+  "name": "roomarrangement",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "roomarrangement"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "roomarrangement"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "roomarrangement"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "roomarrangement"
+    }
+  ]
+}

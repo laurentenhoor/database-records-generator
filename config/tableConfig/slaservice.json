@@ -1,0 +1,526 @@
+{
+  "name": "slaservice",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "aanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "algemeenafdeling",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "algemeenalgemeen",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "algemeenbudgethouder",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "algemeenextraa",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "algemeenextrab",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "algemeenvestiging",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "criteriumkeuze",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "dnocontractid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "dnodienstsoortid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "domeinid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "doorlooptijdlijn1id",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "doorlooptijdlijn2id",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "incidentrangetype",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "incidentselectionid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "isgebruikt",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "kosten",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "rangetype",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "selectionid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "soortmeldingid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "specificatieid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "toelichting",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "underpinningcontractid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "underpinningdienstid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "volgnummer",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "slaservice"
+    }
+  ]
+}

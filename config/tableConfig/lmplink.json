@@ -1,0 +1,61 @@
+{
+  "name": "lmplink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "activityid",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "baseyear",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "cost",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "quantity",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "scenarioid",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    },
+    {
+      "name": "unit",
+      "shouldGenerate": false,
+      "tableName": "lmplink"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "problemduration",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "problemduration"
+    },
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "problemduration"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "problemduration"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "problemduration"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "problemduration"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "problemduration"
+    }
+  ]
+}

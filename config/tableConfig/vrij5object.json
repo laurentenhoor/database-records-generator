@@ -1,0 +1,826 @@
+{
+  "name": "vrij5object",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aankoopbedrag",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "aanschafdatum",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "aanspreekpuntid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "afschrijftermijn",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "artikelbestellinkid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "artikelstatusid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "artikelwordtobject",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "bestelbaarinssh",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "bestellingid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "configuratieid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "datumeersteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "datumgeplandonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "datumlaatsteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "diversenonderhoud",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "garantiedatum",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "heeftonderhoudsplan",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "heeftvoorraad",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "hostnaam",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "huidigevoorraad",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "installatiedoorid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "leaseaanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "leasecontractnummer",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "leaseeinddatum",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "leaseinfo",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "leaseperiode",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "leaseprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "merkid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "objecttype",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "objecttypeid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoud_doorid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudcontract",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudnummer",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudresponsietijd",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudslacontractid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudslagebruikt",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudsoortid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudsplanid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudtot",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "onderhoudvanaf",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ordernummer",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "plaatskeuze",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_aanspreekpunt",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_configuratie",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_finbudgethouder",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_kleur",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_lokatie",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_merk",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_persoon",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_persoongroep",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_plaats1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_soort",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "ref_vestiging",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "reserveerbaaractiveerbaar",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "reserveerbaarkantooruren",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "reserveerbaarsecure",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "reserveerbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "reservzichtbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "restwaarde",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "rm_specification",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "serienummer",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "sjabloonobjectid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "specificatie",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "stdresvbehandelaarid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "veiligvoorraad",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "verhuurborg",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "verhuurprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "verhuurprijssysteem",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "verhuurtekst",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "verkoopprijs",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "verzekerdatum",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vnc",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vnchostnaam",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "wburl",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    },
+    {
+      "name": "webbrowser",
+      "shouldGenerate": false,
+      "tableName": "vrij5object"
+    }
+  ]
+}

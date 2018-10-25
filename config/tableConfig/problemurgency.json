@@ -1,0 +1,31 @@
+{
+  "name": "problemurgency",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "problemurgency"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "problemurgency"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "problemurgency"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "problemurgency"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "problemurgency"
+    }
+  ]
+}

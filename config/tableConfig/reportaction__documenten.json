@@ -1,0 +1,66 @@
+{
+  "name": "reportaction__documenten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reportaction__documenten"
+    }
+  ]
+}

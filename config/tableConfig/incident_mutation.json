@@ -1,0 +1,211 @@
+{
+  "name": "incident_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bestedetijd",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_afhandelingstatusid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_afhandelingstatusid_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_afhandelingstatusid_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumafgemeld",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumafgemeld_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumafgemeld_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumafspraak",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumafspraak_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumafspraak_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumgereed",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumgereed_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_datumgereed_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_impactid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_impactid_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_impactid_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_onholddatum",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_onholddatum_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_onholddatum_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_operatorid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_operatorid_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_operatorid_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_priorityid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_priorityid_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_priorityid_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_supplierid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_supplierid_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_supplierid_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_urgencyid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_urgencyid_act",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "mut_urgencyid_rid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "incident_mutation"
+    }
+  ]
+}

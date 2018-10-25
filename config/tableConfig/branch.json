@@ -1,0 +1,541 @@
+{
+  "name": "branch",
+  "entryAmount": 67,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "adresmemo1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "adresmemo2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "btwnummer",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "debiteurennummer",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "email",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "fax",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "huisnummer1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "huisnummer2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "landid1",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "landid2",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "lidmaatschapsnummer",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "oudervestigingid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "plaats1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "plaats2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "postcode1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "postcode2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "ref_hoofdvestigingid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "specificatie",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "standaardlocatieid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "straat1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "straat2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "sw_option",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "swid",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "telefoon",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "telefoonbbs",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "timezone",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vestigingsoort",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    },
+    {
+      "name": "website",
+      "shouldGenerate": true,
+      "tableName": "branch"
+    }
+  ]
+}

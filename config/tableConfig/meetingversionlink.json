@@ -1,0 +1,21 @@
+{
+  "name": "meetingversionlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "meetingid",
+      "shouldGenerate": false,
+      "tableName": "meetingversionlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "meetingversionlink"
+    },
+    {
+      "name": "versionid",
+      "shouldGenerate": false,
+      "tableName": "meetingversionlink"
+    }
+  ]
+}

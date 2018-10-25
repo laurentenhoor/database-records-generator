@@ -1,0 +1,106 @@
+{
+  "name": "changeversion_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_freezedate",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_freezedate_act",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_freezedate_rid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_operatorid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_operatorid_act",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_operatorid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_plannedimpldate",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_plannedimpldate_act",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_plannedimpldate_rid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_status",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_statusid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_statusid_act",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "mut_statusid_rid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeversion_mutation"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "lmpscenariostatus",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "lmpscenariostatus"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "lmpscenariostatus"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "lmpscenariostatus"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmpscenariostatus"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "lmpsubcode",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "lmpsubcode"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "lmpsubcode"
+    },
+    {
+      "name": "lmpcodeid",
+      "shouldGenerate": false,
+      "tableName": "lmpsubcode"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "lmpsubcode"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "lmpsubcode"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmpsubcode"
+    }
+  ]
+}

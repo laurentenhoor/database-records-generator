@@ -1,0 +1,21 @@
+{
+  "name": "operatorfilteruserlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "operatorfilterid",
+      "shouldGenerate": false,
+      "tableName": "operatorfilteruserlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "operatorfilteruserlink"
+    },
+    {
+      "name": "userid",
+      "shouldGenerate": false,
+      "tableName": "operatorfilteruserlink"
+    }
+  ]
+}

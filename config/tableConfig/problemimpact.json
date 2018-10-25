@@ -1,0 +1,26 @@
+{
+  "name": "problemimpact",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "problemimpact"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "problemimpact"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "problemimpact"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "problemimpact"
+    }
+  ]
+}

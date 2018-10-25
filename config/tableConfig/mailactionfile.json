@@ -1,0 +1,26 @@
+{
+  "name": "mailactionfile",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actieid",
+      "shouldGenerate": false,
+      "tableName": "mailactionfile"
+    },
+    {
+      "name": "bestand",
+      "shouldGenerate": false,
+      "tableName": "mailactionfile"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "mailactionfile"
+    },
+    {
+      "name": "verplicht",
+      "shouldGenerate": false,
+      "tableName": "mailactionfile"
+    }
+  ]
+}

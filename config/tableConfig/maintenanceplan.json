@@ -1,0 +1,36 @@
+{
+  "name": "maintenanceplan",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "maintenanceplan"
+    },
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "maintenanceplan"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "maintenanceplan"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "maintenanceplan"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "maintenanceplan"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "maintenanceplan"
+    }
+  ]
+}

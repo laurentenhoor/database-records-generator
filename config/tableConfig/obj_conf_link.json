@@ -1,0 +1,56 @@
+{
+  "name": "obj_conf_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "configuratieid",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "groepid",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "isfileserver",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "isvoorraadlink",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "ref_objectnaam",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "ref_persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "ref_persoonid",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "obj_conf_link"
+    }
+  ]
+}

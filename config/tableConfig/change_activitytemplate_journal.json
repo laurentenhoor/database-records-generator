@@ -1,0 +1,51 @@
+{
+  "name": "change_activitytemplate_journal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate_journal"
+    }
+  ]
+}

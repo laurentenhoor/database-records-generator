@@ -1,0 +1,31 @@
+{
+  "name": "change_group",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "change_group"
+    },
+    {
+      "name": "color",
+      "shouldGenerate": false,
+      "tableName": "change_group"
+    },
+    {
+      "name": "linkable",
+      "shouldGenerate": false,
+      "tableName": "change_group"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "change_group"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_group"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "rm_series_location_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "rm_series_location_link"
+    },
+    {
+      "name": "duration",
+      "shouldGenerate": false,
+      "tableName": "rm_series_location_link"
+    },
+    {
+      "name": "locationid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_location_link"
+    },
+    {
+      "name": "offset",
+      "shouldGenerate": false,
+      "tableName": "rm_series_location_link"
+    },
+    {
+      "name": "rm_seriesid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_location_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_location_link"
+    }
+  ]
+}

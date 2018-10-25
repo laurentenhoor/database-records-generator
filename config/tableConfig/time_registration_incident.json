@@ -1,0 +1,66 @@
+{
+  "name": "time_registration_incident",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "cardid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "entrydate",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "reason",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "timetaken",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_incident"
+    }
+  ]
+}

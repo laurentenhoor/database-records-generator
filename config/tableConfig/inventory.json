@@ -1,0 +1,826 @@
+{
+  "name": "inventory",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aankoopbedrag",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "aanschafdatum",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "aanspreekpuntid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "afschrijftermijn",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "artikelbestellinkid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "artikelstatusid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "artikelwordtobject",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "bestelbaarinssh",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "bestellingid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "configuratieid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "datumeersteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "datumgeplandonderhoud",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "datumlaatsteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "diversenonderhoud",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "garantiedatum",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "heeftonderhoudsplan",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "heeftvoorraad",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "hostnaam",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "huidigevoorraad",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "installatiedoorid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "leaseaanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "leasecontractnummer",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "leaseeinddatum",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "leaseinfo",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "leaseperiode",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "leaseprijs",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "merkid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "objecttype",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "objecttypeid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoud_doorid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudcontract",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudnummer",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudprijs",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudresponsietijd",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudslacontractid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudslagebruikt",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudsoortid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudsplanid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudtot",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "onderhoudvanaf",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ordernummer",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "plaatskeuze",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_aanspreekpunt",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_configuratie",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_finbudgethouder",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_kleur",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_lokatie",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_merk",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_persoon",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_persoongroep",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_plaats1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_soort",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "ref_vestiging",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "reserveerbaaractiveerbaar",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "reserveerbaarkantooruren",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "reserveerbaarsecure",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "reserveerbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "reservzichtbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "restwaarde",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "rm_specification",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "serienummer",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "sjabloonobjectid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "specificatie",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "stdresvbehandelaarid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "veiligvoorraad",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "verhuurborg",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "verhuurprijs",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "verhuurprijssysteem",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "verhuurtekst",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "verkoopprijs",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "verzekerdatum",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vnc",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vnchostnaam",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "wburl",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    },
+    {
+      "name": "webbrowser",
+      "shouldGenerate": false,
+      "tableName": "inventory"
+    }
+  ]
+}

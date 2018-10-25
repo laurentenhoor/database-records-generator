@@ -1,0 +1,26 @@
+{
+  "name": "projectstate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "projectstate"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "projectstate"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "projectstate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "projectstate"
+    }
+  ]
+}

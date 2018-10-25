@@ -1,0 +1,51 @@
+{
+  "name": "audittrailoptions",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actief",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "bestedetijdvragen",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "redenvragen",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "standaardredenid",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "structurename",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    },
+    {
+      "name": "veldnaam",
+      "shouldGenerate": false,
+      "tableName": "audittrailoptions"
+    }
+  ]
+}

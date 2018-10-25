@@ -1,0 +1,21 @@
+{
+  "name": "meeting__emailberichten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "meeting__emailberichten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "meeting__emailberichten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "meeting__emailberichten"
+    }
+  ]
+}

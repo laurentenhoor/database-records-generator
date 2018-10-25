@@ -1,0 +1,31 @@
+{
+  "name": "changeactivity_status",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_status"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_status"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_status"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_status"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_status"
+    }
+  ]
+}

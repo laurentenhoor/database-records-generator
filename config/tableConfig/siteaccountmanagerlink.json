@@ -1,0 +1,21 @@
+{
+  "name": "siteaccountmanagerlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accountmanagerid",
+      "shouldGenerate": false,
+      "tableName": "siteaccountmanagerlink"
+    },
+    {
+      "name": "id",
+      "shouldGenerate": false,
+      "tableName": "siteaccountmanagerlink"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "siteaccountmanagerlink"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "campaignmailinginvitation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "campaignmailingid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailinginvitation"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailinginvitation"
+    },
+    {
+      "name": "invitationdate",
+      "shouldGenerate": false,
+      "tableName": "campaignmailinginvitation"
+    },
+    {
+      "name": "invitationhash",
+      "shouldGenerate": false,
+      "tableName": "campaignmailinginvitation"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailinginvitation"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "campaignmailinginvitation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "campaignmailinginvitation"
+    }
+  ]
+}

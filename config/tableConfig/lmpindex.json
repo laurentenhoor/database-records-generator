@@ -1,0 +1,26 @@
+{
+  "name": "lmpindex",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "indexvalue",
+      "shouldGenerate": false,
+      "tableName": "lmpindex"
+    },
+    {
+      "name": "lmpworktypeid",
+      "shouldGenerate": false,
+      "tableName": "lmpindex"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmpindex"
+    },
+    {
+      "name": "year",
+      "shouldGenerate": false,
+      "tableName": "lmpindex"
+    }
+  ]
+}

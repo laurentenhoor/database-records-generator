@@ -1,0 +1,21 @@
+{
+  "name": "event_journalaction_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actieid",
+      "shouldGenerate": false,
+      "tableName": "event_journalaction_link"
+    },
+    {
+      "name": "gebeurtenisid",
+      "shouldGenerate": false,
+      "tableName": "event_journalaction_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "event_journalaction_link"
+    }
+  ]
+}

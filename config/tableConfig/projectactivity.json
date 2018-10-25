@@ -1,0 +1,581 @@
+{
+  "name": "projectactivity",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "action",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "briefdescription",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "comments",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "currentplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "currentplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "doorlooptijdinwerkdagen",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "estimateexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "estimatetimetaken",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "expenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "ismijlpaal",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "milestoneid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "monitored",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "notes",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "nummer",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "originalplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "originalplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "plannedfinaldate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "plannedstartdate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "planningfixed",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "projectbeheerid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "request",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "resolved",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "resolveddate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "skipped",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "skippeddate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "skippedreasonid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "started",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "starteddate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "starten",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "sum_realizedexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "sum_realizedtime",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "sum_remainingexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "sum_remainingtime",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "timetaken",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "typeid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "versionid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "verwachtedoorlooptijdconstant",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "verwachtedoorlooptijdeenheid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "verwachtedoorlooptijdteller",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "projectactivity"
+    }
+  ]
+}

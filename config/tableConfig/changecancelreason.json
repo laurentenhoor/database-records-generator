@@ -1,0 +1,31 @@
+{
+  "name": "changecancelreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changecancelreason"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changecancelreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changecancelreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changecancelreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changecancelreason"
+    }
+  ]
+}

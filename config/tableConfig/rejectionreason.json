@@ -1,0 +1,31 @@
+{
+  "name": "rejectionreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "rejectionreason"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "rejectionreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "rejectionreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "rejectionreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "rejectionreason"
+    }
+  ]
+}

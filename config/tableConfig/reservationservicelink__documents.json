@@ -1,0 +1,61 @@
+{
+  "name": "reservationservicelink__documents",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink__documents"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "knowledgebasestatus",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasestatus"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasestatus"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasestatus"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasestatus"
+    }
+  ]
+}

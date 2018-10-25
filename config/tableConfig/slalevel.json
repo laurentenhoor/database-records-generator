@@ -1,0 +1,106 @@
+{
+  "name": "slalevel",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "actiedoorlijn1id",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "actiedoorlijn2id",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "algemeen",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "dnodienstid",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "doorlooptijdlijn1id",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "doorlooptijdlijn2id",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "kosten",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "sw_option",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "swid",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slalevel"
+    }
+  ]
+}

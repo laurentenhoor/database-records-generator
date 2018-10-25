@@ -1,0 +1,36 @@
+{
+  "name": "iteminventorylink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "artikelid",
+      "shouldGenerate": false,
+      "tableName": "iteminventorylink"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "iteminventorylink"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "iteminventorylink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "iteminventorylink"
+    },
+    {
+      "name": "voorraad",
+      "shouldGenerate": false,
+      "tableName": "iteminventorylink"
+    },
+    {
+      "name": "voorraadid",
+      "shouldGenerate": false,
+      "tableName": "iteminventorylink"
+    }
+  ]
+}

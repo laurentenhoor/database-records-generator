@@ -1,0 +1,46 @@
+{
+  "name": "extrabperson",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    },
+    {
+      "name": "kleur",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "extrabperson"
+    }
+  ]
+}

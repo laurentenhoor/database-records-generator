@@ -1,0 +1,31 @@
+{
+  "name": "department",
+  "entryAmount": 4,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": true,
+      "tableName": "department"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": true,
+      "tableName": "department"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": true,
+      "tableName": "department"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": true,
+      "tableName": "department"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": true,
+      "tableName": "department"
+    }
+  ]
+}

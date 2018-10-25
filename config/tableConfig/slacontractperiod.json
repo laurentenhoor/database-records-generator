@@ -1,0 +1,26 @@
+{
+  "name": "slacontractperiod",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "slacontractperiod"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "slacontractperiod"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "slacontractperiod"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slacontractperiod"
+    }
+  ]
+}

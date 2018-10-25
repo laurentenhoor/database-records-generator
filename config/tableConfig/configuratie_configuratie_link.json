@@ -1,0 +1,21 @@
+{
+  "name": "configuratie_configuratie_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "childid",
+      "shouldGenerate": false,
+      "tableName": "configuratie_configuratie_link"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "configuratie_configuratie_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "configuratie_configuratie_link"
+    }
+  ]
+}

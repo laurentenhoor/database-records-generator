@@ -1,0 +1,31 @@
+{
+  "name": "typeofconnection",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "typeofconnection"
+    },
+    {
+      "name": "isfileserver",
+      "shouldGenerate": false,
+      "tableName": "typeofconnection"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "typeofconnection"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "typeofconnection"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "typeofconnection"
+    }
+  ]
+}

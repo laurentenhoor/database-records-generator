@@ -1,0 +1,26 @@
+{
+  "name": "obj_problem_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "obj_problem_link"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "obj_problem_link"
+    },
+    {
+      "name": "problemid",
+      "shouldGenerate": false,
+      "tableName": "obj_problem_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "obj_problem_link"
+    }
+  ]
+}

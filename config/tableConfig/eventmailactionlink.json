@@ -1,0 +1,21 @@
+{
+  "name": "eventmailactionlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actieid",
+      "shouldGenerate": false,
+      "tableName": "eventmailactionlink"
+    },
+    {
+      "name": "gebeurtenisid",
+      "shouldGenerate": false,
+      "tableName": "eventmailactionlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "eventmailactionlink"
+    }
+  ]
+}

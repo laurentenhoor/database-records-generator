@@ -1,0 +1,21 @@
+{
+  "name": "meetingpersonlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "meetingid",
+      "shouldGenerate": false,
+      "tableName": "meetingpersonlink"
+    },
+    {
+      "name": "personid",
+      "shouldGenerate": false,
+      "tableName": "meetingpersonlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "meetingpersonlink"
+    }
+  ]
+}

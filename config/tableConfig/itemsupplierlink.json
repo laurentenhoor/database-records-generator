@@ -1,0 +1,76 @@
+{
+  "name": "itemsupplierlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "artikelid",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "bestelcode",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "btwsoortid",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "korting",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "levertijd",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "minimumbestelling",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "prijs",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "standaardleverancier",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    },
+    {
+      "name": "voorwaarde",
+      "shouldGenerate": false,
+      "tableName": "itemsupplierlink"
+    }
+  ]
+}

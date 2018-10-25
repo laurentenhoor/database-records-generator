@@ -1,0 +1,56 @@
+{
+  "name": "rm_series_service_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "amount",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "blocktime_duration",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "branchid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "locationid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "offset",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "rm_seriesid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "serviceid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "rm_series_service_link"
+    }
+  ]
+}

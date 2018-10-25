@@ -1,0 +1,491 @@
+{
+  "name": "servicewindow",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "frclose",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "fropen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "frworkday",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "moclose",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "moopen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "moworkday",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "saclose",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "saopen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "saworkday",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "suclose",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "suopen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "suworkday",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "thclose",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "thopen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "thworkday",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "timezone_perspective",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "toelichting",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "tuclose",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "tuopen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "tuworkday",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "weclose",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "weopen",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    },
+    {
+      "name": "weworkday",
+      "shouldGenerate": false,
+      "tableName": "servicewindow"
+    }
+  ]
+}

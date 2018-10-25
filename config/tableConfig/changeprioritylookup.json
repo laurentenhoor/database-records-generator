@@ -1,0 +1,41 @@
+{
+  "name": "changeprioritylookup",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylookup"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylookup"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylookup"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylookup"
+    },
+    {
+      "name": "simple_progress_durationid",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylookup"
+    },
+    {
+      "name": "simple_request_durationid",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylookup"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeprioritylookup"
+    }
+  ]
+}

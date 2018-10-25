@@ -1,0 +1,56 @@
+{
+  "name": "costdeclaration_object",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "datum",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "prijs",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "costdeclaration_object"
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "name": "hardware",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aankoopbedrag",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "aanschafdatum",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "aanspreekpuntid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "afschrijftermijn",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "artikelbestellinkid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "artikelstatusid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "artikelwordtobject",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "bestelbaarinssh",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "bestellingid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "boomopmerkingen",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "configuratieid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "datumeersteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "datumgeplandonderhoud",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "datumlaatsteonderhoud",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "diversenonderhoud",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "garantiedatum",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "heeftonderhoudsplan",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "heeftvoorraad",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "hostnaam",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "huidigevoorraad",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "installatiedoorid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ipadres",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "laatstescan",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "leaseaanvangsdatum",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "leasecontractnummer",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "leaseeinddatum",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "leaseinfo",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "leaseperiode",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "leaseprijs",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "macadres",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "merkid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "objecttype",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "objecttypeid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoud_doorid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudcontract",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudnummer",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudprijs",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudresponsietijd",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudslacontractid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudslagebruikt",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudsoortid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudsplanid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudtot",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "onderhoudvanaf",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ordernummer",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "plaatskeuze",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_aanspreekpunt",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_configuratie",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_finbudgethouder",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_gebruiker",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_kleur",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_lokatie",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_merk",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_persoon",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_persoongroep",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_plaats1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_soort",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "ref_vestiging",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "reserveerbaaractiveerbaar",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "reserveerbaarkantooruren",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "reserveerbaarsecure",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "reserveerbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "reservzichtbaarsshd",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "restwaarde",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "rm_specification",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "serienummer",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "sjabloonobjectid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "specificatie",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "stdresvbehandelaarid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "topsis",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "topsispassword",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "topsissource",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "topsisusername",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "veiligvoorraad",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "verhuurborg",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "verhuurprijs",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "verhuurprijssysteem",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "verhuurtekst",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "verkoopprijs",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "verzekerdatum",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vnc",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vnchostnaam",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vncsource",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "wburl",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    },
+    {
+      "name": "webbrowser",
+      "shouldGenerate": false,
+      "tableName": "hardware"
+    }
+  ]
+}

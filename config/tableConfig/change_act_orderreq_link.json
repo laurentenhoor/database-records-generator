@@ -1,0 +1,21 @@
+{
+  "name": "change_act_orderreq_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "activityid",
+      "shouldGenerate": false,
+      "tableName": "change_act_orderreq_link"
+    },
+    {
+      "name": "orderrequestid",
+      "shouldGenerate": false,
+      "tableName": "change_act_orderreq_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_act_orderreq_link"
+    }
+  ]
+}

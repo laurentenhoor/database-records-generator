@@ -1,0 +1,26 @@
+{
+  "name": "object_object_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "object_object_link"
+    },
+    {
+      "name": "childid",
+      "shouldGenerate": false,
+      "tableName": "object_object_link"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "object_object_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "object_object_link"
+    }
+  ]
+}

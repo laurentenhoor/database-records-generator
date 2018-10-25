@@ -1,0 +1,26 @@
+{
+  "name": "projectrequesttype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "projectrequesttype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "projectrequesttype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "projectrequesttype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "projectrequesttype"
+    }
+  ]
+}

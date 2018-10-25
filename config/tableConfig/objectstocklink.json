@@ -1,0 +1,36 @@
+{
+  "name": "objectstocklink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "artikelid",
+      "shouldGenerate": false,
+      "tableName": "objectstocklink"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "objectstocklink"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "objectstocklink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "objectstocklink"
+    },
+    {
+      "name": "voorraad",
+      "shouldGenerate": false,
+      "tableName": "objectstocklink"
+    },
+    {
+      "name": "voorraadid",
+      "shouldGenerate": false,
+      "tableName": "objectstocklink"
+    }
+  ]
+}

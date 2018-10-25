@@ -1,0 +1,46 @@
+{
+  "name": "objectmodel",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    },
+    {
+      "name": "merkid",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "objectmodel"
+    }
+  ]
+}

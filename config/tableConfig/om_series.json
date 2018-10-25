@@ -1,0 +1,481 @@
+{
+  "name": "om_series",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "beheerderid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "bestedetijdgepland",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "groeperingid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "kostengepland",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "nummer",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "opmerkingen",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "planningid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "rappeldatum",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "schemaid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardaantekeningen",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardbehandelaarid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardbestedetijdgepland",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardbudgethouderid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardcategorieid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardkostengepland",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardoperatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardsoortid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardstatusid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "standaardsubcategorieid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "verzoek",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "om_series"
+    }
+  ]
+}

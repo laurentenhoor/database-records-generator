@@ -1,0 +1,26 @@
+{
+  "name": "servicestype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "servicestype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "servicestype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "servicestype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "servicestype"
+    }
+  ]
+}

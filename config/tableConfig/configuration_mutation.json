@@ -1,0 +1,71 @@
+{
+  "name": "configuration_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "mut_persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "mut_persoongroepid_act",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "mut_persoongroepid_rid",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "mut_persoonid",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "mut_persoonid_act",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "mut_persoonid_rid",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "configuration_mutation"
+    }
+  ]
+}

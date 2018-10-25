@@ -1,0 +1,26 @@
+{
+  "name": "changeactivity_object_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_object_link"
+    },
+    {
+      "name": "changeactivityid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_object_link"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_object_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_object_link"
+    }
+  ]
+}

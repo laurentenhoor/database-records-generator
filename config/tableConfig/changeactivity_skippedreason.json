@@ -1,0 +1,41 @@
+{
+  "name": "changeactivity_skippedreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_skippedreason"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_skippedreason"
+    },
+    {
+      "name": "in_change_management",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_skippedreason"
+    },
+    {
+      "name": "in_project_management",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_skippedreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_skippedreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_skippedreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_skippedreason"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "objecttype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "icon",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "nummerbegin",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "nummerminlengte",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "nummerprefix",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    },
+    {
+      "name": "volgnummer",
+      "shouldGenerate": false,
+      "tableName": "objecttype"
+    }
+  ]
+}

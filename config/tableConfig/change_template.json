@@ -1,0 +1,706 @@
+{
+  "name": "change_template",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "action",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "archivereasonid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "benefitid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "briefdescription",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "calc_type_authdate",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "calc_type_finaldate",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "calc_type_impldate",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "caller_branch_filter_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "caller_branchid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "caller_budget_filter_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "caller_budgetholderid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "caller_dep_filter_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "caller_departmentid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "caller_filter_type",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "cardnotes",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "changetype",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "comments",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "duration_in_minutes_rfc",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "duration_in_minutes_simple",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "duration_in_workdays_rfc",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "duration_in_workdays_simple",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "estimatedexpenses",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "estimatedtimetaken",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "eval_authoperatorid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "eval_authpersonid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "eval_decidedby",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "incident_category_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "incident_filter_type",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "incident_subcategory_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "incident_type_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "incident_typeid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "managerid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "metanotes",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "number",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "object_cardtype",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "object_cardtype_filter_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "object_filter_type",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "object_make_filter_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "object_makeid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "object_type_filter_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "object_typeid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "prel_req_approved",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "pro_authoperatorid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "pro_authpersonid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "pro_decidedby",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "req_approved",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "req_authoperatorid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "req_authpersonid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "rfc_category_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "rfc_filter_type",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "rfc_impact_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "rfc_subcategory_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "rfc_type_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "rfc_urgency_active",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "typeid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "use_current_manager",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "use_current_operator",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "use_in_incident",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "use_in_rfc",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "use_in_ssd",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    },
+    {
+      "name": "withevaluation",
+      "shouldGenerate": false,
+      "tableName": "change_template"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "recurringeventstatus",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "recurringeventstatus"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "recurringeventstatus"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "recurringeventstatus"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "recurringeventstatus"
+    }
+  ]
+}

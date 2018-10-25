@@ -1,0 +1,26 @@
+{
+  "name": "visitorparkinglot",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "visitorparkinglot"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "visitorparkinglot"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "visitorparkinglot"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "visitorparkinglot"
+    }
+  ]
+}

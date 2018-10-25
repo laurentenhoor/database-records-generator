@@ -1,0 +1,31 @@
+{
+  "name": "changeactivity_rejectionreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_rejectionreason"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_rejectionreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_rejectionreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_rejectionreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity_rejectionreason"
+    }
+  ]
+}

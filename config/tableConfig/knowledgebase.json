@@ -1,0 +1,136 @@
+{
+  "name": "knowledgebase",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actiefkeuze",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "actieftot",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "actiefvanaf",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "beheerderid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "berichttype",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "gebruikvestiginglink",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "gebruikvestiginglinkoperator",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "nieuwsdatumtot",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "nieuwsdatumvanaf",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "nieuwsitem",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "operatorconditieid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "publicconditieid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "realm",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebase"
+    }
+  ]
+}

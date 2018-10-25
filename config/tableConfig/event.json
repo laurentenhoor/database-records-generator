@@ -1,0 +1,91 @@
+{
+  "name": "event",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actief",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "filteractief",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "filterofen",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "filtersoort",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "naarstatus",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "naarstatuscode",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "soortcode",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "statuswaarde",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "structurename",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "vanstatus",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "vanstatuscode",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "veldenactief",
+      "shouldGenerate": false,
+      "tableName": "event"
+    },
+    {
+      "name": "veldenofen",
+      "shouldGenerate": false,
+      "tableName": "event"
+    }
+  ]
+}

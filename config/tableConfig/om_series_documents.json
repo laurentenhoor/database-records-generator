@@ -1,0 +1,66 @@
+{
+  "name": "om_series_documents",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "accessibility",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "bytes",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "filename",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "isuploaded",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_series_documents"
+    }
+  ]
+}

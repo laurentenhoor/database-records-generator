@@ -1,0 +1,161 @@
+{
+  "name": "standardsolution",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "actiedoorlijn1id",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "actiedoorlijn2id",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "afgemeld",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "afhandelingstatusid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "currentoperatorline1",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "currentoperatorline2",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "doorlooptijdlijn1id",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "doorlooptijdlijn2id",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "gereed",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "onkosten",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "oplosmethodeid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "probleemid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "soortbinnenkomstid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "soortmeldingid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "tijdbesteed",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    },
+    {
+      "name": "verzoek",
+      "shouldGenerate": false,
+      "tableName": "standardsolution"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "name": "suppliercontact",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "achternaam",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "email",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "fax",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "functie",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "geslacht",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "mobiel",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "personeeli",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "telefoon",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "titel",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "tussenvoegsel",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "voorletters",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "voornaam",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "suppliercontact"
+    }
+  ]
+}

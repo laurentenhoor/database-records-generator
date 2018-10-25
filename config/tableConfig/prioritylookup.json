@@ -1,0 +1,41 @@
+{
+  "name": "prioritylookup",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "prioritylookup"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "prioritylookup"
+    },
+    {
+      "name": "line1durationid",
+      "shouldGenerate": false,
+      "tableName": "prioritylookup"
+    },
+    {
+      "name": "line2durationid",
+      "shouldGenerate": false,
+      "tableName": "prioritylookup"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "prioritylookup"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "prioritylookup"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "prioritylookup"
+    }
+  ]
+}

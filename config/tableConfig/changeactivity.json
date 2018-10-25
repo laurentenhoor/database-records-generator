@@ -1,0 +1,581 @@
+{
+  "name": "changeactivity",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "action",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "activitystatusid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "activitytemplateid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "approved",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "approveddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "archivereasonid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "briefdescription",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "changephase",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "comments",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "currentplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "currentplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "decidedby",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "decidedbypersonid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "duration_in_minutes",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "duration_in_workdays",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "expenses",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "groupid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "maystart",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "milestoneid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "monitored",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "notes",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "number",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "originalplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "originalplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "plannedfinaldate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "plannedstartdate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "planningfixed",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "rejected",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "rejecteddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "rejectionreasonid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "resolved",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "resolveddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "skipped",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "skippeddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "skippedreasonid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "started",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "starteddate",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "timetaken",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "changeactivity"
+    }
+  ]
+}

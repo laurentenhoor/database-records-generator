@@ -1,0 +1,21 @@
+{
+  "name": "om_activity_branch_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "om_activiteitid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_branch_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_branch_link"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_branch_link"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "persongrouplink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "persoongroepid",
+      "shouldGenerate": false,
+      "tableName": "persongrouplink"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "persongrouplink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "persongrouplink"
+    }
+  ]
+}

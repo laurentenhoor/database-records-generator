@@ -1,0 +1,26 @@
+{
+  "name": "om_type",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "om_type"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "om_type"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "om_type"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_type"
+    }
+  ]
+}

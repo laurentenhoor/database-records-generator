@@ -1,0 +1,21 @@
+{
+  "name": "reportactionpersonlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "reportactionpersonlink"
+    },
+    {
+      "name": "reportactionid",
+      "shouldGenerate": false,
+      "tableName": "reportactionpersonlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reportactionpersonlink"
+    }
+  ]
+}

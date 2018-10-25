@@ -1,0 +1,26 @@
+{
+  "name": "visitorpass",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "visitorpass"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "visitorpass"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "visitorpass"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "visitorpass"
+    }
+  ]
+}

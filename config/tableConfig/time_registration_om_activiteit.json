@@ -1,0 +1,66 @@
+{
+  "name": "time_registration_om_activiteit",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "cardid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "entrydate",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "reason",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "timetaken",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_om_activiteit"
+    }
+  ]
+}

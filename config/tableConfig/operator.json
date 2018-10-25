@@ -1,0 +1,701 @@
+{
+  "name": "operator",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanspreekactiedoorid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "accountmanager",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "achternaam",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "activiteitbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "adresmemo",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "afdelingid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "changeauthorizer",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "email",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "externepartij",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "fax",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "functie",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "geboortedatum",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "geslacht",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "huisnummer",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "installatie",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "kennissysteembeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "landid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "lijn1beheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "lijn2beheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "lmpactiviteitbeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "lmpscenariobeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "loginnaammainframe",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "loginnaamnetwerk",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "loginnaamtopdeskid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "mobiel",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "operationeelbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "operationeelbeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "personeeli",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "personeelsnr",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "postcode",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "priveemail",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "privefax",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "privemobieltel",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "privetel1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "privetel2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "probleembehandelaar",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "probleembeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "projectactiviteitbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "projectbeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "ref_dynanaam",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "reserveringbeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "rfcauthorizer",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "simplechangeoperator",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "slacontractbeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "social_security_number",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "straat",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "tasloginnaam",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "taspasshash",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "tasstatus",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "telefoon",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "titel",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "tussenvoegsel",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "uurprijs",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "voorletters",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "voornaam",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "voorraadbeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "voorzieningbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    },
+    {
+      "name": "wijzigingsbeheerder",
+      "shouldGenerate": false,
+      "tableName": "operator"
+    }
+  ]
+}

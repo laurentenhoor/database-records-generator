@@ -1,0 +1,21 @@
+{
+  "name": "recurringeventreportactionlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "recurringeventid",
+      "shouldGenerate": false,
+      "tableName": "recurringeventreportactionlink"
+    },
+    {
+      "name": "reportactionid",
+      "shouldGenerate": false,
+      "tableName": "recurringeventreportactionlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "recurringeventreportactionlink"
+    }
+  ]
+}

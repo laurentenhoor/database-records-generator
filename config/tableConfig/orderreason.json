@@ -1,0 +1,31 @@
+{
+  "name": "orderreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "orderreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "orderreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "orderreason"
+    },
+    {
+      "name": "soort",
+      "shouldGenerate": false,
+      "tableName": "orderreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "orderreason"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "slacontractstate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "slacontractstate"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "slacontractstate"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "slacontractstate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slacontractstate"
+    }
+  ]
+}

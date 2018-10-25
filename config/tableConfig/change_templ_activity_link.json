@@ -1,0 +1,31 @@
+{
+  "name": "change_templ_activity_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "activityid",
+      "shouldGenerate": false,
+      "tableName": "change_templ_activity_link"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "change_templ_activity_link"
+    },
+    {
+      "name": "groupid",
+      "shouldGenerate": false,
+      "tableName": "change_templ_activity_link"
+    },
+    {
+      "name": "templateid",
+      "shouldGenerate": false,
+      "tableName": "change_templ_activity_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_templ_activity_link"
+    }
+  ]
+}

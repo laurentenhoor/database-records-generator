@@ -1,0 +1,51 @@
+{
+  "name": "audittrail",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actief",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "bestedetijdvragen",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "redenvragen",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "standaardredenid",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "structurename",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    },
+    {
+      "name": "veldnaam",
+      "shouldGenerate": false,
+      "tableName": "audittrail"
+    }
+  ]
+}

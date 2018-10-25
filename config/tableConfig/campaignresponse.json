@@ -1,0 +1,31 @@
+{
+  "name": "campaignresponse",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "campaignmailinginvitationid",
+      "shouldGenerate": false,
+      "tableName": "campaignresponse"
+    },
+    {
+      "name": "openanswer",
+      "shouldGenerate": false,
+      "tableName": "campaignresponse"
+    },
+    {
+      "name": "surveyanswerid",
+      "shouldGenerate": false,
+      "tableName": "campaignresponse"
+    },
+    {
+      "name": "surveyquestionid",
+      "shouldGenerate": false,
+      "tableName": "campaignresponse"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "campaignresponse"
+    }
+  ]
+}

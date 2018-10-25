@@ -1,0 +1,701 @@
+{
+  "name": "abstractoperator",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanspreekactiedoorid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "accountmanager",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "achternaam",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "activiteitbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "adresmemo",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "afdelingid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "changeauthorizer",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "email",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "externepartij",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "fax",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "functie",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "geboortedatum",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "geslacht",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "huisnummer",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "installatie",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "kennissysteembeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "landid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "lijn1beheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "lijn2beheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "lmpactiviteitbeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "lmpscenariobeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "loginnaammainframe",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "loginnaamnetwerk",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "loginnaamtopdeskid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "mobiel",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "operationeelbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "operationeelbeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "personeeli",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "personeelsnr",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "postcode",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "priveemail",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "privefax",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "privemobieltel",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "privetel1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "privetel2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "probleembehandelaar",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "probleembeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "projectactiviteitbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "projectbeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "ref_dynanaam",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "reserveringbeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "rfcauthorizer",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "simplechangeoperator",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "slacontractbeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "social_security_number",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "straat",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "tasloginnaam",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "taspasshash",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "tasstatus",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "telefoon",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "titel",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "tussenvoegsel",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "uurprijs",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "voorletters",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "voornaam",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "voorraadbeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "voorzieningbehandelaar",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    },
+    {
+      "name": "wijzigingsbeheerder",
+      "shouldGenerate": false,
+      "tableName": "abstractoperator"
+    }
+  ]
+}

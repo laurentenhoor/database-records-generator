@@ -1,0 +1,21 @@
+{
+  "name": "reportactionoperatorlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actiedoorid",
+      "shouldGenerate": false,
+      "tableName": "reportactionoperatorlink"
+    },
+    {
+      "name": "reportactionid",
+      "shouldGenerate": false,
+      "tableName": "reportactionoperatorlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reportactionoperatorlink"
+    }
+  ]
+}

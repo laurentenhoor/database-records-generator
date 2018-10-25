@@ -1,0 +1,66 @@
+{
+  "name": "time_registration_projectactivity",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "cardid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "entrydate",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "reason",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "timetaken",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "time_registration_projectactivity"
+    }
+  ]
+}

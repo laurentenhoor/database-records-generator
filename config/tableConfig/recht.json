@@ -1,0 +1,46 @@
+{
+  "name": "recht",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "achterkleur",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    },
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    },
+    {
+      "name": "superv",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    },
+    {
+      "name": "typen",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "recht"
+    }
+  ]
+}

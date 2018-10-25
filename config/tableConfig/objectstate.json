@@ -1,0 +1,31 @@
+{
+  "name": "objectstate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "objectstate"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "objectstate"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "objectstate"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "objectstate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "objectstate"
+    }
+  ]
+}

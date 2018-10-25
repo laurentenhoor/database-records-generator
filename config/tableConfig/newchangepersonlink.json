@@ -1,0 +1,26 @@
+{
+  "name": "newchangepersonlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "newchangepersonlink"
+    },
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "newchangepersonlink"
+    },
+    {
+      "name": "personid",
+      "shouldGenerate": false,
+      "tableName": "newchangepersonlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "newchangepersonlink"
+    }
+  ]
+}

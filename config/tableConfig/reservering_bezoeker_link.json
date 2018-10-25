@@ -1,0 +1,21 @@
+{
+  "name": "reservering_bezoeker_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bezoekerid",
+      "shouldGenerate": false,
+      "tableName": "reservering_bezoeker_link"
+    },
+    {
+      "name": "reserveringid",
+      "shouldGenerate": false,
+      "tableName": "reservering_bezoeker_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reservering_bezoeker_link"
+    }
+  ]
+}

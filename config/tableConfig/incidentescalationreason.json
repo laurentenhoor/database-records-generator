@@ -1,0 +1,36 @@
+{
+  "name": "incidentescalationreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "incidentescalationreason"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "incidentescalationreason"
+    },
+    {
+      "name": "lijn",
+      "shouldGenerate": false,
+      "tableName": "incidentescalationreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "incidentescalationreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "incidentescalationreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "incidentescalationreason"
+    }
+  ]
+}

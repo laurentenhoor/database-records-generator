@@ -1,0 +1,21 @@
+{
+  "name": "service_branch_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "service_branch_link"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "service_branch_link"
+    },
+    {
+      "name": "voorzieningid",
+      "shouldGenerate": false,
+      "tableName": "service_branch_link"
+    }
+  ]
+}

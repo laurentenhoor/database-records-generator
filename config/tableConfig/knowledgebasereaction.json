@@ -1,0 +1,51 @@
+{
+  "name": "knowledgebasereaction",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "kennisid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "tekst",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasereaction"
+    }
+  ]
+}

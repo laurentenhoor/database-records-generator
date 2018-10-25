@@ -1,0 +1,31 @@
+{
+  "name": "contextmenuaction",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actieid",
+      "shouldGenerate": false,
+      "tableName": "contextmenuaction"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "contextmenuaction"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "contextmenuaction"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "contextmenuaction"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "contextmenuaction"
+    }
+  ]
+}

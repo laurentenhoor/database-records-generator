@@ -1,0 +1,711 @@
+{
+  "name": "bestellingen",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "adresmemo1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "adresmemo2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "afmeldautorisatieid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "afmelddatum",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "bestelafmeldid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "bestelautorisatieid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "besteldatum",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "contactpersoonid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "geplandebesteldatum",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "huisnummer1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "huisnummer2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "inkoopmemo",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "internbestelnr",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "kale_artikelen_prijs",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "korting",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "kortinginstellen",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "kortingprocent",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "kortingsoort",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "landid1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "landid2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "leverancier_debiteurennummer",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "leverancier_factuurnummer",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "leverancier_specificatie",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "offertenr",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "ordernr",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "ordernrdatum",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "plaats1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "plaats2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "postcode1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "postcode2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "ref_autorisator",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "ref_bestelstatus",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "ref_leverancier",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "ref_vestiging",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "ref_vestiging2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "straat1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "straat2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "totaalberekendekorting",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "totaalbtw",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "totaalkosten",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "totaalkosteninclusiefbtw",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vervoerder",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "verwachtdatum",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "verzendkosten",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "verzendkostenbtwsoortid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_debiteurennummer",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_debiteurennummer2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_email",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_email2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_fax",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_fax2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_specificatie",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_specificatie2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_telefoon",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_telefoon2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_website",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestiging_website2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestigingcontactpersoonid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestigingcontactpersoonid2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vestigingid2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "bestellingen"
+    }
+  ]
+}

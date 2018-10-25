@@ -1,0 +1,46 @@
+{
+  "name": "duration",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    },
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    },
+    {
+      "name": "lijn",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "duration"
+    }
+  ]
+}

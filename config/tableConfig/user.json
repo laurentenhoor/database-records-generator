@@ -1,0 +1,116 @@
+{
+  "name": "user",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "defaultprofile",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "defaultprofilenaam",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "groepoms",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "inlognaam",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "login_date",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "maginloggen",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "passhash",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "supervrecht",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "sv",
+      "shouldGenerate": false,
+      "tableName": "user"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "user"
+    }
+  ]
+}

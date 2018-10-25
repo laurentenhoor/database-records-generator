@@ -1,0 +1,31 @@
+{
+  "name": "addresstype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "addresstype"
+    },
+    {
+      "name": "guicode",
+      "shouldGenerate": false,
+      "tableName": "addresstype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "addresstype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "addresstype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "addresstype"
+    }
+  ]
+}

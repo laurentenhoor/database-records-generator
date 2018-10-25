@@ -1,0 +1,731 @@
+{
+  "name": "problemmanagement",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanmaakdatum",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "aanmaakdatumbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "actiedoorbfid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "actiedoorid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "afgemeld",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "afgemeldbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "beheerderbfid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "bestedetijdmemo",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "categorieid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "datumafgemeld",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "datumafgemeldbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "datumgereed",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "datumgereedbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "deelprobleemvolgnummer",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "domeinid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "domeinprobleemid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "doorlooptijdbfid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "doorlooptijdid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "gereed",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "gereedbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "impactbfid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "korteomschrijvingbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "kostenbegroot",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "kostenmemo",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "kostenverwacht",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "minutendoorlooptijd",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "minutendoorlooptijdbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "onkosten",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "onkostenbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "oorzaakid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "operatorgroupbfid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "oplossing",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "probleemid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "ref_bestedetijdsgat",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "ref_bestedetijdverschil",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "ref_kostengat",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "ref_kostenverschil",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_aanmaakdatum",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_afgemeld",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_behandelaar",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_beheerder",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_datumafgemeld",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_datumgereed",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_doorlooptijdid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_gereed",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_impact",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_minutendoorlooptijd",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_onkosten",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_status",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_streefdatum",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "refcombi_tijdbesteed",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "specificatieid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "specificatieprobleemid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "statusbfid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "streefdatum",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "streefdatumbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "tijdbegroot",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "tijdbesteed",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "tijdbesteedbf",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "tijdverwacht",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "totalekosten",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "totaletijd",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "verantwoordelijkeid",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "problemmanagement"
+    }
+  ]
+}

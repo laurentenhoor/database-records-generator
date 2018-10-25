@@ -1,0 +1,21 @@
+{
+  "name": "leveranciercontactpersoon__emailberichten",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "leveranciercontactpersoon__emailberichten"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "leveranciercontactpersoon__emailberichten"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "leveranciercontactpersoon__emailberichten"
+    }
+  ]
+}

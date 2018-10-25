@@ -1,0 +1,641 @@
+{
+  "name": "person",
+  "entryAmount": 20,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "achternaam",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "adresmemo",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "afdelingbekijken",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "afdelingid",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "afdelingvrijenaam",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attentieid",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "budgethouderbekijken",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "dochtervestigingbekijken",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "email",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "externtoegevoegd",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "extraapersoonid",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "extrabpersoonid",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "fax",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "functie",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "geboortedatum",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "geslacht",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "huisnummer",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "ismanager",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "kamer",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "landid",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "loginnaammainframe",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "loginnaamnetwerk",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "lokatieid",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "managerid",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "may_authorize_all",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "may_authorize_budgetholder",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "may_authorize_department",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "may_authorize_site",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "may_authorize_subsidiary_sites",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "mobiel",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "personeeli",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "personeelsnr",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "plaats",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "postcode",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "priveemail",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "privefax",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "privemobieltel",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "privetel1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "privetel2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "social_security_number",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "straat",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "tasloginnaam",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "taspasshash",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "tasstatus",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "telefoon",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "titel",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "tussenvoegsel",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vestigingbekijken",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "voorletters",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "voornaam",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": true,
+      "tableName": "person"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": true,
+      "tableName": "person"
+    }
+  ]
+}

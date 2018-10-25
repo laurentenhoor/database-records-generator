@@ -1,0 +1,516 @@
+{
+  "name": "om_activity",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "afgemeld",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "afwijkinggeconstateerd",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "afwijkingredenid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "bestedetijd",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "bestedetijdgepland",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "bestedetijdmemo",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "categorieid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "datumafgemeld",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "einddatumgepland",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "gerealiseerdekosten",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "groeperingid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "kostengepland",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "kostenmemo",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "nogteverwachtenbestedetijd",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "nogteverwachtenkosten",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "nummer",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "overgeslagen",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "redenoverslaanid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "reeksid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "schemaid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "soortid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "startdatumgepland",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "subcategorieid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "verzoek",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "om_activity"
+    }
+  ]
+}

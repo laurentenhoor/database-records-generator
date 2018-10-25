@@ -1,0 +1,21 @@
+{
+  "name": "reportactionemailberichtenlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "reportactionemailberichtenlink"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "reportactionemailberichtenlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reportactionemailberichtenlink"
+    }
+  ]
+}

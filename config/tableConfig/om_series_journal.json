@@ -1,0 +1,51 @@
+{
+  "name": "om_series_journal",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actienaam",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_series_journal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "operatorgrouplink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actiedoorgroepid",
+      "shouldGenerate": false,
+      "tableName": "operatorgrouplink"
+    },
+    {
+      "name": "actiedoorid",
+      "shouldGenerate": false,
+      "tableName": "operatorgrouplink"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "operatorgrouplink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "operatorgrouplink"
+    }
+  ]
+}

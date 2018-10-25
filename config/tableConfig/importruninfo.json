@@ -1,0 +1,21 @@
+{
+  "name": "importruninfo",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "id",
+      "shouldGenerate": false,
+      "tableName": "importruninfo"
+    },
+    {
+      "name": "import_runid",
+      "shouldGenerate": false,
+      "tableName": "importruninfo"
+    },
+    {
+      "name": "stacktrace",
+      "shouldGenerate": false,
+      "tableName": "importruninfo"
+    }
+  ]
+}

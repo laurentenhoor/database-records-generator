@@ -1,0 +1,41 @@
+{
+  "name": "completionstatus",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "completionstatus"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "completionstatus"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "completionstatus"
+    },
+    {
+      "name": "onhold",
+      "shouldGenerate": false,
+      "tableName": "completionstatus"
+    },
+    {
+      "name": "processingstate",
+      "shouldGenerate": false,
+      "tableName": "completionstatus"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "completionstatus"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "completionstatus"
+    }
+  ]
+}

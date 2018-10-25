@@ -1,0 +1,26 @@
+{
+  "name": "picturesource",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "picturesource"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "picturesource"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "picturesource"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "picturesource"
+    }
+  ]
+}

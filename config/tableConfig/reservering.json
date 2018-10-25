@@ -1,0 +1,651 @@
+{
+  "name": "reservering",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanmelderafdelingid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmelderbudgethouderid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmelderemail",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmelderlokatieid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmeldernaam",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmelderplaats1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmeldertelefoon",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmeldervestiging",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aanmeldervestigingid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aantalpersonen",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "afsprakenlevering",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "afsprakenteruggave",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "annuleerdatum",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "annuleerredenid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "beheerderid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "betaald",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "borg",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "borgbetaald",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "borgteruggegeven",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "categorieid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "diversen",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "einddatumgepland",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "einddatumgeplandblok",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "extraapersoonid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "extrabpersoonid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "extrakostengepland",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "extrakostenwerkelijk",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "gefactureerd",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "kortinggepland",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "kortingwerkelijk",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "kostengepland",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "kostenwerkelijk",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "opmerkingen",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "optieafwijsredenid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "ref_afdeling",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "ref_beheerder",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "ref_budgethouder",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "ref_categorie",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "ref_personeelsnr",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "ref_status",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "rm_seriesid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "startdatum",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "startdatumgepland",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "startdatumgeplandblok",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "uitnaam",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "uitnaamemail",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "uitnaamnaam",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "uitnaamspecificatie",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "uitnaamtelefoon",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "reservering"
+    }
+  ]
+}

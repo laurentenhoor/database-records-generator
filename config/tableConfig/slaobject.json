@@ -1,0 +1,21 @@
+{
+  "name": "slaobject",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "dnodienstid",
+      "shouldGenerate": false,
+      "tableName": "slaobject"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "slaobject"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slaobject"
+    }
+  ]
+}

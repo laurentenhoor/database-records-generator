@@ -1,0 +1,31 @@
+{
+  "name": "importcoupleresult",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "count",
+      "shouldGenerate": false,
+      "tableName": "importcoupleresult"
+    },
+    {
+      "name": "coupleid",
+      "shouldGenerate": false,
+      "tableName": "importcoupleresult"
+    },
+    {
+      "name": "id",
+      "shouldGenerate": false,
+      "tableName": "importcoupleresult"
+    },
+    {
+      "name": "mad",
+      "shouldGenerate": false,
+      "tableName": "importcoupleresult"
+    },
+    {
+      "name": "success",
+      "shouldGenerate": false,
+      "tableName": "importcoupleresult"
+    }
+  ]
+}

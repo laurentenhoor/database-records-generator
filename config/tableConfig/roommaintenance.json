@@ -1,0 +1,46 @@
+{
+  "name": "roommaintenance",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    },
+    {
+      "name": "kosten",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    },
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    },
+    {
+      "name": "startdatum",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "roommaintenance"
+    }
+  ]
+}

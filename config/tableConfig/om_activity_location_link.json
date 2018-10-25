@@ -1,0 +1,21 @@
+{
+  "name": "om_activity_location_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_location_link"
+    },
+    {
+      "name": "om_activiteitid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_location_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_activity_location_link"
+    }
+  ]
+}

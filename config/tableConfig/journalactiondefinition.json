@@ -1,0 +1,76 @@
+{
+  "name": "journalactiondefinition",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actief",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "actieftasbeveiligd",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "actieftaspubliek",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "actieftopdesk",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "bericht1",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "bevestigen",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "sleutel",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "structurename",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    },
+    {
+      "name": "wijzigbaar",
+      "shouldGenerate": false,
+      "tableName": "journalactiondefinition"
+    }
+  ]
+}

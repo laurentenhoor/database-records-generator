@@ -1,0 +1,21 @@
+{
+  "name": "projectactivity__emailmessages",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity__emailmessages"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity__emailmessages"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity__emailmessages"
+    }
+  ]
+}

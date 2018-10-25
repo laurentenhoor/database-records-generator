@@ -1,0 +1,31 @@
+{
+  "name": "lmpcode",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "lmpcode"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "lmpcode"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "lmpcode"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "lmpcode"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmpcode"
+    }
+  ]
+}

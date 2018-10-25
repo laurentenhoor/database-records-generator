@@ -1,0 +1,86 @@
+{
+  "name": "selection",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "groepid",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "istijdlk",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "kaart",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "kaartnaam",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "omschr",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "slacode",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    },
+    {
+      "name": "voorwiecode",
+      "shouldGenerate": false,
+      "tableName": "selection"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "changestate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changestate"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changestate"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changestate"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changestate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changestate"
+    }
+  ]
+}

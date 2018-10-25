@@ -1,0 +1,116 @@
+{
+  "name": "role",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "defaultprofile",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "defaultprofilenaam",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "groepoms",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "inlognaam",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "login_date",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "maginloggen",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "passhash",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "supervrecht",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "sv",
+      "shouldGenerate": false,
+      "tableName": "role"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "role"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "systemevents",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "category",
+      "shouldGenerate": false,
+      "tableName": "systemevents"
+    },
+    {
+      "name": "log",
+      "shouldGenerate": false,
+      "tableName": "systemevents"
+    },
+    {
+      "name": "systemeventdate",
+      "shouldGenerate": false,
+      "tableName": "systemevents"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "systemevents"
+    }
+  ]
+}

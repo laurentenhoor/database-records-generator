@@ -1,0 +1,26 @@
+{
+  "name": "orderrequest_incident_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_incident_link"
+    },
+    {
+      "name": "bestelaanvraagid",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_incident_link"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_incident_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "orderrequest_incident_link"
+    }
+  ]
+}

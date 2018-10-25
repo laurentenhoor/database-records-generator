@@ -1,0 +1,116 @@
+{
+  "name": "abstractuser",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "defaultprofile",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "defaultprofilenaam",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "groepoms",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "inlognaam",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "login_date",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "maginloggen",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "passhash",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "supervrecht",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "sv",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "abstractuser"
+    }
+  ]
+}

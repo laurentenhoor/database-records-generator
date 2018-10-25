@@ -1,0 +1,46 @@
+{
+  "name": "change_duration",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    },
+    {
+      "name": "count",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    },
+    {
+      "name": "in_change_management",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    },
+    {
+      "name": "in_project_management",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_duration"
+    }
+  ]
+}

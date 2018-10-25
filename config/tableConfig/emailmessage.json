@@ -1,0 +1,111 @@
+{
+  "name": "emailmessage",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "afzender",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "bericht",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "emailaction",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "geadresseerde",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "html",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "kopie_naar_eigen",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "leesbevestiging",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "ontvangstbevestiging",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "oorsprong_type",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "prioriteit",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "vanuitkaart",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    },
+    {
+      "name": "verzenddatum",
+      "shouldGenerate": false,
+      "tableName": "emailmessage"
+    }
+  ]
+}

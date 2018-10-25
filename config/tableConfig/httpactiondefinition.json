@@ -1,0 +1,221 @@
+{
+  "name": "httpactiondefinition",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actief",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "actieftasbeveiligd",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "actieftaspubliek",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "actieftopdesk",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "berichttonen",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "bevestigen",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "body",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "body1",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "clientsideauth",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "eenofalle",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "headers",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "headers1",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "httpmethod",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "httpversie",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "intopdesk",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "komtvoor",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "optionalwebtab",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "poort",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "server",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "server1",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "serversideauth",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "sleutel",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "soortuitvoer",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "soortuitvoer2",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "specplaats",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "structurename",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "tekstals",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "tekstals1",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "tekstalsniet",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "tekstalsniet1",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "toonanders",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "toonreactie",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "uri",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "uri1",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "usessl",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "voorwaarde",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "wijzigbaar",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "woorden",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    },
+    {
+      "name": "woorden1",
+      "shouldGenerate": false,
+      "tableName": "httpactiondefinition"
+    }
+  ]
+}

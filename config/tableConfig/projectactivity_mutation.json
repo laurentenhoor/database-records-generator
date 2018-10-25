@@ -1,0 +1,291 @@
+{
+  "name": "projectactivity_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bestedetijd",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_behandelaarid_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_behandelaarid_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_currentplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_currentplanexpenses_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_currentplanexpenses_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_currentplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_currentplantimetaken_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_currentplantimetaken_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_estimateexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_estimateexpenses_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_estimateexpenses_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_estimatetimetaken",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_estimatetimetaken_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_estimatetimetaken_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_milestoneid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_milestoneid_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_milestoneid_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_originalplanexpenses",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_originalplanexpenses_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_originalplanexpenses_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_originalplantimetaken",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_originalplantimetaken_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_originalplantimetaken_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_plannedfinaldate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_plannedfinaldate_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_plannedfinaldate_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_plannedstartdate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_plannedstartdate_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_plannedstartdate_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_resolveddate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_resolveddate_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_resolveddate_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_skippeddate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_skippeddate_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_skippeddate_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_starteddate",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_starteddate_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_starteddate_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_status",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_statusid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_statusid_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_statusid_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_versionid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_versionid_act",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "mut_versionid_rid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "projectactivity_mutation"
+    }
+  ]
+}

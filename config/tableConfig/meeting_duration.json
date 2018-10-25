@@ -1,0 +1,36 @@
+{
+  "name": "meeting_duration",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "meeting_duration"
+    },
+    {
+      "name": "count",
+      "shouldGenerate": false,
+      "tableName": "meeting_duration"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "meeting_duration"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "meeting_duration"
+    },
+    {
+      "name": "type",
+      "shouldGenerate": false,
+      "tableName": "meeting_duration"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "meeting_duration"
+    }
+  ]
+}

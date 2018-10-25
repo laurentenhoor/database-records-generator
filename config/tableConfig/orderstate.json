@@ -1,0 +1,26 @@
+{
+  "name": "orderstate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "orderstate"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "orderstate"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "orderstate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "orderstate"
+    }
+  ]
+}

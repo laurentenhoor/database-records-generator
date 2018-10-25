@@ -1,0 +1,96 @@
+{
+  "name": "surveyquestion",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "answertype",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "comment",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "mandatory",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "question",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "rank",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "surveyid",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "surveyquestioncategoryid",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "surveyquestion"
+    }
+  ]
+}

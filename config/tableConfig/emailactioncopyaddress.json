@@ -1,0 +1,41 @@
+{
+  "name": "emailactioncopyaddress",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actieid",
+      "shouldGenerate": false,
+      "tableName": "emailactioncopyaddress"
+    },
+    {
+      "name": "adres",
+      "shouldGenerate": false,
+      "tableName": "emailactioncopyaddress"
+    },
+    {
+      "name": "adres1",
+      "shouldGenerate": false,
+      "tableName": "emailactioncopyaddress"
+    },
+    {
+      "name": "sleutel",
+      "shouldGenerate": false,
+      "tableName": "emailactioncopyaddress"
+    },
+    {
+      "name": "totype",
+      "shouldGenerate": false,
+      "tableName": "emailactioncopyaddress"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "emailactioncopyaddress"
+    },
+    {
+      "name": "verplicht",
+      "shouldGenerate": false,
+      "tableName": "emailactioncopyaddress"
+    }
+  ]
+}

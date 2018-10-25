@@ -1,0 +1,26 @@
+{
+  "name": "om_skipreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "om_skipreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "om_skipreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "om_skipreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_skipreason"
+    }
+  ]
+}

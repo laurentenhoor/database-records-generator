@@ -1,0 +1,481 @@
+{
+  "name": "change_activitytemplate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "action",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "activitystatusid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "archivereasonid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "briefdescription",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "cardnotes",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "categoryid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "changephase",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "comments",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "decidedby",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "decidedbypersonid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "duration_in_minutes",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "duration_in_workdays",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "estimatedexpenses",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "estimatedtimetaken",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "metanotes",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "number",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "optional",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "planningfixed",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "subcategoryid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "useforactivity",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "using_current_operator",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "change_activitytemplate"
+    }
+  ]
+}

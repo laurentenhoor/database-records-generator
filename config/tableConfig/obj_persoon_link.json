@@ -1,0 +1,26 @@
+{
+  "name": "obj_persoon_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "obj_persoon_link"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "obj_persoon_link"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "obj_persoon_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "obj_persoon_link"
+    }
+  ]
+}

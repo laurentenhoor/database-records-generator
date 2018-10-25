@@ -1,0 +1,21 @@
+{
+  "name": "emailmessageattachement",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bestandsnaam",
+      "shouldGenerate": false,
+      "tableName": "emailmessageattachement"
+    },
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "emailmessageattachement"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "emailmessageattachement"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "name": "problem_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bestedetijd",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_actiedoorbfid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_actiedoorbfid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_actiedoorbfid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_actiedoorid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_actiedoorid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_actiedoorid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_beheerderbfid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_beheerderbfid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_beheerderbfid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumafgemeld",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumafgemeld_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumafgemeld_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumafgemeldbf",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumafgemeldbf_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumafgemeldbf_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumgereed",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumgereed_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumgereed_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumgereedbf",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumgereedbf_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_datumgereedbf_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_operatorgroupbfid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_operatorgroupbfid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_operatorgroupbfid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_operatorgroupid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_priorityid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_priorityid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_priorityid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_statusbfid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_statusbfid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_statusbfid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_statusid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_statusid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_statusid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_streefdatum",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_streefdatum_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_streefdatum_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_streefdatumbf",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_streefdatumbf_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_streefdatumbf_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_urgencyid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_urgencyid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_urgencyid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_verantwoordelijkeid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_verantwoordelijkeid_act",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "mut_verantwoordelijkeid_rid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "problem_mutation"
+    }
+  ]
+}

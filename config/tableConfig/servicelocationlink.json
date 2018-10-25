@@ -1,0 +1,31 @@
+{
+  "name": "servicelocationlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "servicelocationlink"
+    },
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "servicelocationlink"
+    },
+    {
+      "name": "standaard",
+      "shouldGenerate": false,
+      "tableName": "servicelocationlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "servicelocationlink"
+    },
+    {
+      "name": "voorzieningid",
+      "shouldGenerate": false,
+      "tableName": "servicelocationlink"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "location__picture",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "cardid",
+      "shouldGenerate": false,
+      "tableName": "location__picture"
+    },
+    {
+      "name": "isfavourite",
+      "shouldGenerate": false,
+      "tableName": "location__picture"
+    },
+    {
+      "name": "pictureid",
+      "shouldGenerate": false,
+      "tableName": "location__picture"
+    },
+    {
+      "name": "rank",
+      "shouldGenerate": false,
+      "tableName": "location__picture"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "location__picture"
+    }
+  ]
+}

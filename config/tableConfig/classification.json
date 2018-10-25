@@ -1,0 +1,141 @@
+{
+  "name": "classification",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "changeactivity",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "changeauthactivity",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "changecoordinator",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "changemanagement",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "dnocontract",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "incidentbeheer",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "lijn1actiedoorid",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "lijn2actiedoorid",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "operationeelbeheer",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "probleembeheer",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "simplechange",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "steekwoorden",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    },
+    {
+      "name": "wijzigingsbeheer",
+      "shouldGenerate": false,
+      "tableName": "classification"
+    }
+  ]
+}

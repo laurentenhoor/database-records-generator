@@ -1,0 +1,86 @@
+{
+  "name": "slaservicelink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "dnocontractid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "dnodienstid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "dnoniveauid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "kosten",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_algemeneafspraak",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_algemenebhouderafspraak",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_algemenevestigingafspraak",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_budgethouderid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_domeinid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_impactid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_naam",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_soortmeldingid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_specificatieid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "ref_vestigingid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "slaservicelink"
+    }
+  ]
+}

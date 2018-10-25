@@ -1,0 +1,31 @@
+{
+  "name": "changerequesttype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "changerequesttype"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changerequesttype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "changerequesttype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "changerequesttype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changerequesttype"
+    }
+  ]
+}

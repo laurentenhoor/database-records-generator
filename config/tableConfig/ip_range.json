@@ -1,0 +1,31 @@
+{
+  "name": "ip_range",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "beginaddress",
+      "shouldGenerate": false,
+      "tableName": "ip_range"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "ip_range"
+    },
+    {
+      "name": "endaddress",
+      "shouldGenerate": false,
+      "tableName": "ip_range"
+    },
+    {
+      "name": "hardwareid",
+      "shouldGenerate": false,
+      "tableName": "ip_range"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "ip_range"
+    }
+  ]
+}

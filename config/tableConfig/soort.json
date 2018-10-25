@@ -1,0 +1,61 @@
+{
+  "name": "soort",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanmaak",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "archiveer",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "lezen",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "rechtid",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "schrijven",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "selectie",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "usergroepid",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "verw",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    },
+    {
+      "name": "wijzig",
+      "shouldGenerate": false,
+      "tableName": "soort"
+    }
+  ]
+}

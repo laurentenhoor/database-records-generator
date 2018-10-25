@@ -1,0 +1,46 @@
+{
+  "name": "reparation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    },
+    {
+      "name": "kosten",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    },
+    {
+      "name": "startdatum",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reparation"
+    }
+  ]
+}

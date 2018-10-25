@@ -1,0 +1,21 @@
+{
+  "name": "meetingprojectlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "meetingid",
+      "shouldGenerate": false,
+      "tableName": "meetingprojectlink"
+    },
+    {
+      "name": "projectid",
+      "shouldGenerate": false,
+      "tableName": "meetingprojectlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "meetingprojectlink"
+    }
+  ]
+}

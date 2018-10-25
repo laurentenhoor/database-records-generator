@@ -1,0 +1,26 @@
+{
+  "name": "om_activitystate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "om_activitystate"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "om_activitystate"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "om_activitystate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_activitystate"
+    }
+  ]
+}

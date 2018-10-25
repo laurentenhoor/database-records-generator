@@ -1,0 +1,46 @@
+{
+  "name": "patch",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    },
+    {
+      "name": "einddatum",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    },
+    {
+      "name": "kosten",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    },
+    {
+      "name": "startdatum",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "patch"
+    }
+  ]
+}

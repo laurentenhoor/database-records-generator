@@ -1,0 +1,21 @@
+{
+  "name": "changeactivity__dependency",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "headid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity__dependency"
+    },
+    {
+      "name": "tailid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity__dependency"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeactivity__dependency"
+    }
+  ]
+}

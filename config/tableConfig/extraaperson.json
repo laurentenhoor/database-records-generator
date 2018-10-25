@@ -1,0 +1,46 @@
+{
+  "name": "extraaperson",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    },
+    {
+      "name": "heeftattentie",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    },
+    {
+      "name": "kleur",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "extraaperson"
+    }
+  ]
+}

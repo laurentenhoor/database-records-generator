@@ -1,0 +1,21 @@
+{
+  "name": "project_incident_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "project_incident_link"
+    },
+    {
+      "name": "projectitemid",
+      "shouldGenerate": false,
+      "tableName": "project_incident_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "project_incident_link"
+    }
+  ]
+}

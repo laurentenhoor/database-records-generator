@@ -1,0 +1,21 @@
+{
+  "name": "meetingchangeactivitylink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "changeactivityid",
+      "shouldGenerate": false,
+      "tableName": "meetingchangeactivitylink"
+    },
+    {
+      "name": "meetingid",
+      "shouldGenerate": false,
+      "tableName": "meetingchangeactivitylink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "meetingchangeactivitylink"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "lmp_om_activity_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "lmpactivityid",
+      "shouldGenerate": false,
+      "tableName": "lmp_om_activity_link"
+    },
+    {
+      "name": "omactivityid",
+      "shouldGenerate": false,
+      "tableName": "lmp_om_activity_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmp_om_activity_link"
+    }
+  ]
+}

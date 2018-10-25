@@ -1,0 +1,21 @@
+{
+  "name": "suppliercontactlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "id",
+      "shouldGenerate": false,
+      "tableName": "suppliercontactlink"
+    },
+    {
+      "name": "leveranciercontactpersoonid",
+      "shouldGenerate": false,
+      "tableName": "suppliercontactlink"
+    },
+    {
+      "name": "leverancierid",
+      "shouldGenerate": false,
+      "tableName": "suppliercontactlink"
+    }
+  ]
+}

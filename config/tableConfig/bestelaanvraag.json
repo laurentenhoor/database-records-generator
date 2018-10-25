@@ -1,0 +1,501 @@
+{
+  "name": "bestelaanvraag",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aanmelderafdelingid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmelderbudgethouderid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmelderemail",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmelderlokatieid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmeldernaam",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmelderplaats1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmeldertelefoon",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmeldervestiging",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanmeldervestigingid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanvraagdatum",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "aanvragerid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "afhandeldatum",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "afwijsdatum",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "extraapersoonid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "extrabpersoonid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "gewensteleverdatum",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "opmerkingen",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "rappeldatum",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "ref_aanvragerdynanaam",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "ref_afdeling",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "ref_budgethouder",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "ref_locatie",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "ref_persnr",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "bestelaanvraag"
+    }
+  ]
+}

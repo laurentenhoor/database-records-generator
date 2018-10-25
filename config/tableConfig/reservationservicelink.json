@@ -1,0 +1,116 @@
+{
+  "name": "reservationservicelink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "aantal",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "afgemeld",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "behandelaarid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "bloktijd",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "bloktijdduur",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "objectid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "opmerking",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "prijsperstuk",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "reserveringid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "tijdbesteed",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "tijdstip",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    },
+    {
+      "name": "voorzieningid",
+      "shouldGenerate": false,
+      "tableName": "reservationservicelink"
+    }
+  ]
+}

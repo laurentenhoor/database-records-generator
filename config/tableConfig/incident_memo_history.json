@@ -1,0 +1,86 @@
+{
+  "name": "incident_memo_history",
+  "entryAmount": 50,
+  "columnsConfig": [
+    {
+      "name": "attachment",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "gebruikerid",
+      "shouldGenerate": false,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "invisibleforcaller",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "memotekst",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "origin",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "recordtimestamp",
+      "shouldGenerate": false,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    },
+    {
+      "name": "veldnaam",
+      "shouldGenerate": true,
+      "tableName": "incident_memo_history"
+    }
+  ]
+}

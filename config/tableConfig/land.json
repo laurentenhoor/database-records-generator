@@ -1,0 +1,31 @@
+{
+  "name": "land",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "adrestypeid",
+      "shouldGenerate": false,
+      "tableName": "land"
+    },
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "land"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "land"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "land"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "land"
+    }
+  ]
+}

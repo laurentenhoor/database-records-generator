@@ -1,0 +1,21 @@
+{
+  "name": "operatorfiltergrouplink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "groupid",
+      "shouldGenerate": false,
+      "tableName": "operatorfiltergrouplink"
+    },
+    {
+      "name": "operatorfilterid",
+      "shouldGenerate": false,
+      "tableName": "operatorfiltergrouplink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "operatorfiltergrouplink"
+    }
+  ]
+}

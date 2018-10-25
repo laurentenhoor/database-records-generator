@@ -1,0 +1,76 @@
+{
+  "name": "rm_series",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "briefdescription",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "duration",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "hasconflicts",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "numberofpersons",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "planningid",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "starttime",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "rm_series"
+    }
+  ]
+}

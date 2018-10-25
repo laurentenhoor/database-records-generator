@@ -1,0 +1,36 @@
+{
+  "name": "archivingreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "archivingreason"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "archivingreason"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "archivingreason"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "archivingreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "archivingreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "archivingreason"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "newchangeprojectlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "changeid",
+      "shouldGenerate": false,
+      "tableName": "newchangeprojectlink"
+    },
+    {
+      "name": "projectid",
+      "shouldGenerate": false,
+      "tableName": "newchangeprojectlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "newchangeprojectlink"
+    }
+  ]
+}

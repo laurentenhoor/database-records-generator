@@ -1,0 +1,26 @@
+{
+  "name": "personincidentlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "personincidentlink"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "personincidentlink"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": false,
+      "tableName": "personincidentlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "personincidentlink"
+    }
+  ]
+}

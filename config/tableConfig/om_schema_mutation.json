@@ -1,0 +1,71 @@
+{
+  "name": "om_schema_mutation",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "mut_beheerderid",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "mut_beheerderid_act",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "mut_beheerderid_rid",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "mut_statusid",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "mut_statusid_act",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "mut_statusid_rid",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_schema_mutation"
+    }
+  ]
+}

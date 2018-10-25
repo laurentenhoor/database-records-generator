@@ -1,0 +1,21 @@
+{
+  "name": "stockemails",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "stockemails"
+    },
+    {
+      "name": "kaartid",
+      "shouldGenerate": false,
+      "tableName": "stockemails"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "stockemails"
+    }
+  ]
+}

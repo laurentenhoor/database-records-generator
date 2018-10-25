@@ -1,0 +1,96 @@
+{
+  "name": "executablefileactiondefinition",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actief",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "actieftasbeveiligd",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "actieftaspubliek",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "actieftopdesk",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "bestand",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "bestandmeegeven",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "inhoudtekstbestand",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "inhoudtekstbestand1",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "meegeeftekstbestand",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "omschrijving",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "parameters",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "parameters1",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "sleutel",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "structurename",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "tabelstatus",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    },
+    {
+      "name": "welkbestand",
+      "shouldGenerate": false,
+      "tableName": "executablefileactiondefinition"
+    }
+  ]
+}

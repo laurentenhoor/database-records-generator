@@ -1,0 +1,26 @@
+{
+  "name": "orderrequeststate",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "orderrequeststate"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "orderrequeststate"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "orderrequeststate"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "orderrequeststate"
+    }
+  ]
+}

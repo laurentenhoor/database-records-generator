@@ -1,0 +1,56 @@
+{
+  "name": "om_grouping",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "schemaid",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "om_grouping"
+    }
+  ]
+}

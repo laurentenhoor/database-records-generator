@@ -1,0 +1,21 @@
+{
+  "name": "knowledgebasebranchlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "kennisitemid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasebranchlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasebranchlink"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "knowledgebasebranchlink"
+    }
+  ]
+}

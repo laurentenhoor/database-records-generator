@@ -1,0 +1,81 @@
+{
+  "name": "operatorfilter",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "active",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "allowshowallgroups",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "name",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "shownooperator",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "showothergroups",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "showotheroperatorsingroups",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "showowngroups",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    },
+    {
+      "name": "userscope",
+      "shouldGenerate": false,
+      "tableName": "operatorfilter"
+    }
+  ]
+}

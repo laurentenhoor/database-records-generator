@@ -1,0 +1,26 @@
+{
+  "name": "licencetype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "licencetype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "licencetype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "licencetype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "licencetype"
+    }
+  ]
+}

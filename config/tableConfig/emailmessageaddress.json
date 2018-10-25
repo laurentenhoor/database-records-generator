@@ -1,0 +1,26 @@
+{
+  "name": "emailmessageaddress",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "emailadres",
+      "shouldGenerate": false,
+      "tableName": "emailmessageaddress"
+    },
+    {
+      "name": "emailid",
+      "shouldGenerate": false,
+      "tableName": "emailmessageaddress"
+    },
+    {
+      "name": "totype",
+      "shouldGenerate": false,
+      "tableName": "emailmessageaddress"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "emailmessageaddress"
+    }
+  ]
+}

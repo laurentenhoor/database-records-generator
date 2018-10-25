@@ -1,0 +1,26 @@
+{
+  "name": "identificationtype",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "identificationtype"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "identificationtype"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "identificationtype"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "identificationtype"
+    }
+  ]
+}

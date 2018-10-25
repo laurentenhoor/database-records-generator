@@ -1,0 +1,21 @@
+{
+  "name": "probleemincidentlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "probleemincidentlink"
+    },
+    {
+      "name": "probleemid",
+      "shouldGenerate": false,
+      "tableName": "probleemincidentlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "probleemincidentlink"
+    }
+  ]
+}

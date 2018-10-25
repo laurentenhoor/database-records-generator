@@ -1,0 +1,26 @@
+{
+  "name": "reportactionstatus",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "reportactionstatus"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": false,
+      "tableName": "reportactionstatus"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "reportactionstatus"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "reportactionstatus"
+    }
+  ]
+}

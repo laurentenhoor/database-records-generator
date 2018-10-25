@@ -1,0 +1,21 @@
+{
+  "name": "project_problem_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "problemid",
+      "shouldGenerate": false,
+      "tableName": "project_problem_link"
+    },
+    {
+      "name": "projectitemid",
+      "shouldGenerate": false,
+      "tableName": "project_problem_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "project_problem_link"
+    }
+  ]
+}

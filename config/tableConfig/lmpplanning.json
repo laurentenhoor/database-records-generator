@@ -1,0 +1,46 @@
+{
+  "name": "lmpplanning",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    },
+    {
+      "name": "lmplinkid",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    },
+    {
+      "name": "patternid",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    },
+    {
+      "name": "totalcost",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    },
+    {
+      "name": "year",
+      "shouldGenerate": false,
+      "tableName": "lmpplanning"
+    }
+  ]
+}

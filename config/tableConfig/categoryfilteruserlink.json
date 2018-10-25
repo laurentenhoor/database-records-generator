@@ -1,0 +1,21 @@
+{
+  "name": "categoryfilteruserlink",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "categoryfilterid",
+      "shouldGenerate": false,
+      "tableName": "categoryfilteruserlink"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "categoryfilteruserlink"
+    },
+    {
+      "name": "userid",
+      "shouldGenerate": false,
+      "tableName": "categoryfilteruserlink"
+    }
+  ]
+}

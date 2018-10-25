@@ -1,0 +1,716 @@
+{
+  "name": "incident",
+  "entryAmount": 50,
+  "columnsConfig": [
+    {
+      "name": "aanmelderafdelingid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "aanmelderbudgethouderid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "aanmelderemail",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "aanmelderlokatieid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "aanmeldernaam",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "aanmeldertelefoon",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "aanmeldervestigingid",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "aantekeningen",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "actie",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "adjustedduration",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "afgemeld",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "afhandelingstatusid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "archiefredenid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "betreftkeuze",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "bewaakt",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "configuratieid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "configuratieobjectid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "datumaangemeld",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "datumafgemeld",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "datumafspraak",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "datumafspraaksla",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "datumgereed",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "deelactievolgnummer",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "deescalatieredenid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "dnoid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "doorlooptijdid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "emailstatus",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "escalatieredenid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "escalationoperatorid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "externnummer",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "extraaid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "extraapersoonid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "extrabid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "extrabpersoonid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "gedeescaleerd",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "geescaleerd",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "gereed",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "incident_domeinid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "incident_specid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "incidentid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "ismajorincident",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "korteomschrijving",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "kosten_artikelen",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "kosten_objecten",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "lijn1tijdbesteed",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "locatieid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "majorincidentid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "minutendoorlooptijd",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "naam",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "onhold",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "onholddatum",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "onholdduration",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "onkosten",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "operatorgroupid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "oplosmethodeid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "oplossingid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "persoonid",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "savedinsecure",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "soortbinnenkomstid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "soortmeldingid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "supplierid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "tijdbesteed",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "totaleonkosten",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "totaletijd",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "urgencyid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "verwtijdbesteed",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "verzoek",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vestigingid",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "volgnummer",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": true,
+      "tableName": "incident"
+    }
+  ]
+}

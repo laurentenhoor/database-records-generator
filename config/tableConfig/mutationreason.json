@@ -1,0 +1,31 @@
+{
+  "name": "mutationreason",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "archief",
+      "shouldGenerate": false,
+      "tableName": "mutationreason"
+    },
+    {
+      "name": "code",
+      "shouldGenerate": false,
+      "tableName": "mutationreason"
+    },
+    {
+      "name": "rang",
+      "shouldGenerate": false,
+      "tableName": "mutationreason"
+    },
+    {
+      "name": "tekst",
+      "shouldGenerate": false,
+      "tableName": "mutationreason"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "mutationreason"
+    }
+  ]
+}

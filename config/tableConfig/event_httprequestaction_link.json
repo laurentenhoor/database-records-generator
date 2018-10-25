@@ -1,0 +1,21 @@
+{
+  "name": "event_httprequestaction_link",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "actieid",
+      "shouldGenerate": false,
+      "tableName": "event_httprequestaction_link"
+    },
+    {
+      "name": "gebeurtenisid",
+      "shouldGenerate": false,
+      "tableName": "event_httprequestaction_link"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "event_httprequestaction_link"
+    }
+  ]
+}

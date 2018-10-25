@@ -1,0 +1,456 @@
+{
+  "name": "changeversion",
+  "entryAmount": 0,
+  "columnsConfig": [
+    {
+      "name": "action",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "archivereasonid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijememo1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijememo2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijememo3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijememo4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijememo5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "attvrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "benefitid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "bespokememo",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "briefdescription",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "creation_date",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "creator_id",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "description",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "freezedate",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "impactid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "implementationdate",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "implemented",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "importdate",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "importid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "importtype",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "modification_date",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "modifier_id",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "notes",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "operatorid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "parentid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "plannedimpldate",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "priorityid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "publish_description",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "publish_description_type",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "publish_title",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "publish_type",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "state",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "statusid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "typeid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "unid",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijedatum1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijedatum2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijedatum3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijedatum4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijedatum5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijegetal1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijegetal2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijegetal3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijegetal4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijegetal5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijelogisch1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijelogisch2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijelogisch3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijelogisch4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijelogisch5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijememo1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijememo2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijememo3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijememo4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijememo5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijeopzoek1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijeopzoek2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijeopzoek3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijeopzoek4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijeopzoek5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijetekst1",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijetekst2",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijetekst3",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijetekst4",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    },
+    {
+      "name": "vrijetekst5",
+      "shouldGenerate": false,
+      "tableName": "changeversion"
+    }
+  ]
+}
